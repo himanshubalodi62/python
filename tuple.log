@@ -1,0 +1,169 @@
+2022-07-06 13:06:59,214 INFO root open the tuple class
+2022-07-06 13:07:22,106 INFO root open the tuple class
+2022-07-06 13:07:22,106 INFO root extract_tuple
+2022-07-06 13:07:22,106 INFO root (2, 3, 4, 5, 6)
+2022-07-06 13:07:22,106 INFO root (3, 4, 5, 6, 7)
+2022-07-06 17:48:12,850 INFO root open the tuple class
+2022-07-06 17:48:12,850 INFO root extract_tuple
+2022-07-06 17:48:12,850 INFO root (2, 3, 4, 5, 6)
+2022-07-06 17:48:12,850 INFO root (3, 4, 5, 6, 7)
+2022-07-06 17:48:32,879 INFO root open the tuple class
+2022-07-06 17:48:32,879 INFO root extract_tuple
+2022-07-06 17:48:32,879 INFO root (2, 3, 4, 5, 6)
+2022-07-06 17:48:32,879 INFO root (3, 4, 5, 6, 7)
+2022-07-06 17:49:29,422 INFO root open the tuple class
+2022-07-06 17:49:29,422 INFO root extract_tuple
+2022-07-06 17:49:29,422 INFO root (2, 3, 4, 5, 6)
+2022-07-06 17:49:29,422 INFO root (3, 4, 5, 6, 7)
+2022-07-06 17:50:28,527 INFO root open the tuple class
+2022-07-06 17:50:28,527 INFO root extract_tuple
+2022-07-06 17:50:28,527 INFO root (2, 3, 4, 5, 6)
+2022-07-06 17:50:28,527 INFO root (3, 4, 5, 6, 7)
+2022-07-06 17:52:00,208 INFO root open the tuple class
+2022-07-06 17:52:00,208 INFO root extract_tuple
+2022-07-06 17:52:00,208 INFO root (2, 3, 4, 5, 6)
+2022-07-06 17:52:00,208 INFO root (3, 4, 5, 6, 7)
+2022-07-06 17:52:29,519 INFO root open the tuple class
+2022-07-06 17:52:29,519 INFO root extract_tuple
+2022-07-06 17:52:29,519 INFO root (2, 3, 4, 5, 6)
+2022-07-06 17:52:29,519 INFO root (3, 4, 5, 6, 7)
+2022-07-06 18:25:19,696 INFO root open the tuple class
+2022-07-06 18:25:19,696 INFO root extract_tuple
+2022-07-06 18:25:19,696 INFO root (2, 3, 4, 5, 6)
+2022-07-06 18:25:19,696 INFO root (3, 4, 5, 6, 7)
+2022-07-06 18:45:10,108 INFO root open the tuple class
+2022-07-06 18:45:10,108 INFO root extract_tuple
+2022-07-06 18:45:10,108 INFO root (2, 3, 4, 5, 6)
+2022-07-06 18:45:10,108 INFO root (3, 4, 5, 6, 7)
+2022-07-06 18:46:02,854 INFO root open the tuple class
+2022-07-06 18:46:02,854 INFO root extract_tuple
+2022-07-06 18:46:02,854 INFO root (2, 3, 4, 5, 6)
+2022-07-06 18:46:02,854 INFO root (3, 4, 5, 6, 7)
+2022-07-06 18:49:01,473 INFO root open the tuple class
+2022-07-06 18:49:01,473 INFO root extract_tuple
+2022-07-06 18:49:01,473 INFO root (2, 3, 4, 5, 6)
+2022-07-06 18:49:01,473 INFO root (3, 4, 5, 6, 7)
+2022-07-06 18:51:41,399 INFO root open the tuple class
+2022-07-06 18:51:41,399 INFO root extract_tuple
+2022-07-06 18:51:41,399 INFO root (2, 3, 4, 5, 6)
+2022-07-06 18:51:41,399 INFO root (3, 4, 5, 6, 7)
+2022-07-06 18:55:58,669 INFO root open the tuple class
+2022-07-06 18:55:58,669 INFO root extract_tuple
+2022-07-06 18:55:58,669 INFO root (2, 3, 4, 5, 6)
+2022-07-06 18:55:58,669 INFO root (3, 4, 5, 6, 7)
+2022-07-06 18:57:09,776 INFO root open the tuple class
+2022-07-06 18:57:09,776 INFO root extract_tuple
+2022-07-06 18:57:09,776 INFO root (2, 3, 4, 5, 6)
+2022-07-06 18:57:09,776 INFO root (3, 4, 5, 6, 7)
+2022-07-06 19:00:15,200 INFO root open the tuple class
+2022-07-06 19:00:15,200 INFO root extract_tuple
+2022-07-06 19:00:15,200 INFO root (2, 3, 4, 5, 6)
+2022-07-06 19:00:15,200 INFO root (3, 4, 5, 6, 7)
+2022-07-06 19:06:27,898 INFO root open the tuple class
+2022-07-06 19:06:27,898 INFO root extract_tuple
+2022-07-06 19:06:27,898 INFO root (2, 3, 4, 5, 6)
+2022-07-06 19:06:27,898 INFO root (3, 4, 5, 6, 7)
+2022-07-06 19:11:46,213 INFO root open the tuple class
+2022-07-06 19:11:46,213 INFO root extract_tuple
+2022-07-06 19:11:46,213 INFO root (2, 3, 4, 5, 6)
+2022-07-06 19:11:46,213 INFO root (3, 4, 5, 6, 7)
+2022-07-06 20:21:08,334 INFO root open the tuple class
+2022-07-06 20:21:08,334 INFO root extract_tuple
+2022-07-06 20:21:08,334 INFO root (2, 3, 4, 5, 6)
+2022-07-06 20:21:08,334 INFO root (3, 4, 5, 6, 7)
+2022-07-06 20:26:50,521 INFO root open the tuple class
+2022-07-06 20:26:50,521 INFO root extract_tuple
+2022-07-06 20:26:50,521 INFO root (2, 3, 4, 5, 6)
+2022-07-06 20:26:50,521 INFO root (3, 4, 5, 6, 7)
+2022-07-06 20:45:08,809 INFO root open the tuple class
+2022-07-06 20:48:43,466 INFO root open the tuple class
+2022-07-06 20:48:57,355 INFO root open the tuple class
+2022-07-07 10:24:42,709 INFO root open the tuple class
+2022-07-07 10:26:26,879 INFO root open the tuple class
+2022-07-07 10:26:26,879 INFO root extract_tuple
+2022-07-07 10:26:26,879 INFO root (2, 3, 4, 5, 6)
+2022-07-07 10:26:26,879 INFO root (3, 4, 5, 6, 7)
+2022-07-07 10:26:39,378 INFO root open the tuple class
+2022-07-07 10:26:39,378 INFO root extract_tuple
+2022-07-07 10:26:39,378 INFO root (2, 3, 4, 5, 6)
+2022-07-07 10:26:39,378 INFO root (3, 4, 5, 6, 7)
+2022-07-07 10:28:42,919 INFO root open the tuple class
+2022-07-07 10:28:42,919 INFO root extract_tuple
+2022-07-07 10:28:42,919 INFO root (2, 3, 4, 5, 6)
+2022-07-07 10:28:42,919 INFO root (3, 4, 5, 6, 7)
+2022-07-07 10:36:06,371 INFO root open the tuple class
+2022-07-07 10:36:06,371 INFO root extract_tuple
+2022-07-07 10:36:06,371 INFO root (2, 3, 4, 5, 6)
+2022-07-07 10:36:06,371 INFO root (3, 4, 5, 6, 7)
+2022-07-07 10:37:30,896 INFO root open the tuple class
+2022-07-07 10:37:30,896 INFO root extract_tuple
+2022-07-07 10:37:30,896 INFO root (2, 3, 4, 5, 6)
+2022-07-07 10:37:30,896 INFO root (3, 4, 5, 6, 7)
+2022-07-07 10:38:10,378 INFO root open the tuple class
+2022-07-07 10:38:10,378 INFO root extract_tuple
+2022-07-07 10:38:10,378 INFO root (2, 3, 4, 5, 6)
+2022-07-07 10:38:10,378 INFO root (3, 4, 5, 6, 7)
+2022-07-07 10:39:25,497 INFO root open the tuple class
+2022-07-07 10:39:25,497 INFO root extract_tuple
+2022-07-07 10:39:25,497 INFO root (2, 3, 4, 5, 6)
+2022-07-07 10:39:25,497 INFO root (3, 4, 5, 6, 7)
+2022-07-07 10:39:39,637 INFO root open the tuple class
+2022-07-07 10:39:39,637 INFO root extract_tuple
+2022-07-07 10:39:39,637 INFO root (2, 3, 4, 5, 6)
+2022-07-07 10:39:39,637 INFO root (3, 4, 5, 6, 7)
+2022-07-07 10:41:45,746 INFO root open the tuple class
+2022-07-07 10:41:45,746 INFO root extract_tuple
+2022-07-07 10:41:45,746 INFO root (2, 3, 4, 5, 6)
+2022-07-07 10:41:45,746 INFO root (3, 4, 5, 6, 7)
+2022-07-07 10:45:36,165 INFO root open the tuple class
+2022-07-07 10:45:36,165 INFO root extract_tuple
+2022-07-07 10:45:36,165 INFO root (2, 3, 4, 5, 6)
+2022-07-07 10:45:36,165 INFO root (3, 4, 5, 6, 7)
+2022-07-07 10:55:19,920 INFO root open the tuple class
+2022-07-07 10:55:19,920 INFO root extract_tuple
+2022-07-07 10:55:19,920 INFO root (2, 3, 4, 5, 6)
+2022-07-07 10:55:19,920 INFO root (3, 4, 5, 6, 7)
+2022-07-07 10:56:32,099 INFO root open the tuple class
+2022-07-07 10:56:32,099 INFO root extract_tuple
+2022-07-07 10:56:32,099 INFO root (2, 3, 4, 5, 6)
+2022-07-07 10:56:32,099 INFO root (3, 4, 5, 6, 7)
+2022-07-07 10:57:12,487 INFO root open the tuple class
+2022-07-07 10:57:12,487 INFO root extract_tuple
+2022-07-07 10:57:12,487 INFO root (2, 3, 4, 5, 6)
+2022-07-07 10:57:12,487 INFO root (3, 4, 5, 6, 7)
+2022-07-07 10:58:38,450 INFO root open the tuple class
+2022-07-07 10:58:38,450 INFO root extract_tuple
+2022-07-07 10:58:38,450 INFO root (2, 3, 4, 5, 6)
+2022-07-07 10:58:38,450 INFO root (3, 4, 5, 6, 7)
+2022-07-07 10:58:50,074 INFO root open the tuple class
+2022-07-07 10:58:50,074 INFO root extract_tuple
+2022-07-07 10:58:50,074 INFO root (2, 3, 4, 5, 6)
+2022-07-07 10:58:50,074 INFO root (3, 4, 5, 6, 7)
+2022-07-07 11:00:08,126 INFO root open the tuple class
+2022-07-07 11:00:08,126 INFO root extract_tuple
+2022-07-07 11:00:08,126 INFO root (2, 3, 4, 5, 6)
+2022-07-07 11:00:08,126 INFO root (3, 4, 5, 6, 7)
+2022-07-07 11:01:14,458 INFO root open the tuple class
+2022-07-07 11:01:14,458 INFO root extract_tuple
+2022-07-07 11:01:14,458 INFO root (2, 3, 4, 5, 6)
+2022-07-07 11:01:14,458 INFO root (3, 4, 5, 6, 7)
+2022-07-07 11:04:58,748 INFO root open the tuple class
+2022-07-07 11:04:58,748 INFO root extract_tuple
+2022-07-07 11:04:58,748 INFO root (2, 3, 4, 5, 6)
+2022-07-07 11:04:58,748 INFO root (3, 4, 5, 6, 7)
+2022-07-07 11:05:43,234 INFO root open the tuple class
+2022-07-07 11:05:43,234 INFO root extract_tuple
+2022-07-07 11:05:43,234 INFO root (2, 3, 4, 5, 6)
+2022-07-07 11:05:43,234 INFO root (3, 4, 5, 6, 7)
+2022-07-07 11:05:58,593 INFO root open the tuple class
+2022-07-07 11:05:58,593 INFO root extract_tuple
+2022-07-07 11:05:58,593 INFO root (2, 3, 4, 5, 6)
+2022-07-07 11:05:58,593 INFO root (3, 4, 5, 6, 7)
+2022-07-07 11:06:47,964 INFO root open the tuple class
+2022-07-07 11:06:47,964 INFO root extract_tuple
+2022-07-07 11:06:47,964 INFO root (2, 3, 4, 5, 6)
+2022-07-07 11:06:47,964 INFO root (3, 4, 5, 6, 7)
+2022-07-07 11:07:45,585 INFO root open the tuple class
+2022-07-07 11:07:45,585 INFO root extract_tuple
+2022-07-07 11:07:45,585 INFO root (2, 3, 4, 5, 6)
+2022-07-07 11:07:45,585 INFO root (3, 4, 5, 6, 7)
