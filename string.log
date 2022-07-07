@@ -1,0 +1,48 @@
+2022-07-06 11:29:52,477 INFO root I extract to string index one to 300 with in jump of 3
+2022-07-06 11:29:52,477 INFO root extracted string is tssyityopgmncsa alrNph rgni ni:
+2022-07-06 11:29:52,477 INFO root I extract to string index one to 300 with in jump of 3
+2022-07-06 11:29:52,477 ERROR root empty string
+Traceback (most recent call last):
+  File "E:/pythonProject1OOPS_Task.1/OOPS_test1.py", line 13, in string_extract
+    raise ValueError("empty string")
+ValueError: empty string
+2022-07-06 11:29:52,477 INFO root create about to reverse string
+2022-07-06 11:29:52,477 INFO root reverse string is noitcnuf sti dna gnirts nohtyp GNINrael nohtyp ma i na ssalc gnimmargorp nohtyp tsriF yM si siht:
+2022-07-06 11:29:52,477 INFO root we are about captilize string
+2022-07-06 11:29:52,477 ERROR root 'str' object has no attribute 'titel'
+Traceback (most recent call last):
+  File "E:/pythonProject1OOPS_Task.1/OOPS_test1.py", line 77, in string_split
+    str = _Cstring.titel()
+AttributeError: 'str' object has no attribute 'titel'
+2022-07-07 11:11:43,049 INFO root I extract to string index one to 300 with in jump of 3
+2022-07-07 11:11:43,065 INFO root extracted string is tssyityopgmncsa alrNph rgni ni:
+2022-07-07 11:11:43,065 INFO root I extract to string index one to 300 with in jump of 3
+2022-07-07 11:11:43,065 ERROR root empty string
+Traceback (most recent call last):
+  File "E:/pythonProject1OOPS_Task.1/OOPS_test1.py", line 13, in string_extract
+    raise ValueError("empty string")
+ValueError: empty string
+2022-07-07 11:11:43,065 INFO root create about to reverse string
+2022-07-07 11:11:43,065 INFO root reverse string is noitcnuf sti dna gnirts nohtyp GNINrael nohtyp ma i na ssalc gnimmargorp nohtyp tsriF yM si siht:
+2022-07-07 11:11:43,065 INFO root we are about captilize string
+2022-07-07 11:11:43,065 ERROR root 'str' object has no attribute 'titel'
+Traceback (most recent call last):
+  File "E:/pythonProject1OOPS_Task.1/OOPS_test1.py", line 77, in string_split
+    str = _Cstring.titel()
+AttributeError: 'str' object has no attribute 'titel'
+2022-07-07 11:12:31,249 INFO root I extract to string index one to 300 with in jump of 3
+2022-07-07 11:12:31,249 INFO root extracted string is tssyityopgmncsa alrNph rgni ni:
+2022-07-07 11:12:31,249 INFO root I extract to string index one to 300 with in jump of 3
+2022-07-07 11:12:31,249 ERROR root empty string
+Traceback (most recent call last):
+  File "E:/pythonProject1OOPS_Task.1/OOPS_test1.py", line 13, in string_extract
+    raise ValueError("empty string")
+ValueError: empty string
+2022-07-07 11:12:31,249 INFO root create about to reverse string
+2022-07-07 11:12:31,249 INFO root reverse string is noitcnuf sti dna gnirts nohtyp GNINrael nohtyp ma i na ssalc gnimmargorp nohtyp tsriF yM si siht:
+2022-07-07 11:12:31,249 INFO root we are about captilize string
+2022-07-07 11:12:31,249 ERROR root 'str' object has no attribute 'titel'
+Traceback (most recent call last):
+  File "E:/pythonProject1OOPS_Task.1/OOPS_test1.py", line 77, in string_split
+    str = _Cstring.titel()
+AttributeError: 'str' object has no attribute 'titel'
