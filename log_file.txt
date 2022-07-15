@@ -1,0 +1,1180 @@
+INFO 2022-07-14 13:07:38,416 root welcome students
+INFO 2022-07-14 13:07:38,417 root total count of the student
+INFO 2022-07-14 13:07:38,417 root build new version neuron plateform
+INFO 2022-07-14 13:07:38,417 root Neuron is created
+INFO 2022-07-14 13:07:38,417 root cost affordable started for a neuron
+INFO 2022-07-14 13:07:38,417 root cost of neuron is returned
+INFO 2022-07-14 13:07:38,418 root build list of course for an instructor
+INFO 2022-07-14 13:07:38,418 root course list created and returned
+INFO 2022-07-14 13:07:38,418 root cost started foa a course
+INFO 2022-07-14 13:07:38,418 root cost of course is reeturned
+INFO 2022-07-14 13:10:41,482 root welcome students
+INFO 2022-07-14 13:10:41,482 root total count of the student
+INFO 2022-07-14 13:10:41,482 root build new version neuron plateform
+INFO 2022-07-14 13:10:41,482 root Neuron is created
+INFO 2022-07-14 13:10:41,482 root cost affordable started for a neuron
+INFO 2022-07-14 13:10:41,482 root cost of neuron is returned
+INFO 2022-07-14 13:10:41,482 root build list of course for an instructor
+INFO 2022-07-14 13:10:41,482 root course list created and returned
+INFO 2022-07-14 13:10:41,482 root cost started foa a course
+INFO 2022-07-14 13:10:41,482 root cost of course is reeturned
+INFO 2022-07-14 13:10:41,482 root starting registration of an instructor
+INFO 2022-07-14 13:10:41,482 root Instructor registration done
+INFO 2022-07-14 13:10:41,482 root sub course registration is done
+INFO 2022-07-14 13:10:41,482 root sub course is done
+INFO 2022-07-14 13:10:41,482 root starting counting of sub courses
+INFO 2022-07-14 13:10:41,482 root sub course counted is done
+INFO 2022-07-14 13:10:41,482 root starting a deletion of a new course
+INFO 2022-07-14 13:10:41,482 root deleted is completed
+INFO 2022-07-14 13:10:41,482 root registrating a new student
+INFO 2022-07-14 13:10:41,482 root student registration is completed
+INFO 2022-07-14 13:10:41,482 root updating the emailid of the student
+INFO 2022-07-14 13:10:41,482 root emailid updation is done
+INFO 2022-07-14 13:13:16,745 root welcome students
+INFO 2022-07-14 13:13:16,746 root total count of the student
+INFO 2022-07-14 13:13:16,746 root build new version neuron plateform
+INFO 2022-07-14 13:13:16,746 root Neuron is created
+INFO 2022-07-14 13:13:16,746 root cost affordable started for a neuron
+INFO 2022-07-14 13:13:16,746 root cost of neuron is returned
+INFO 2022-07-14 13:13:16,746 root build list of course for an instructor
+INFO 2022-07-14 13:13:16,747 root course list created and returned
+INFO 2022-07-14 13:13:16,747 root cost started foa a course
+INFO 2022-07-14 13:13:16,747 root cost of course is reeturned
+INFO 2022-07-14 13:13:16,747 root starting registration of an instructor
+INFO 2022-07-14 13:13:16,747 root Instructor registration done
+INFO 2022-07-14 13:13:16,747 root sub course registration is done
+INFO 2022-07-14 13:13:16,747 root sub course is done
+INFO 2022-07-14 13:13:16,747 root starting counting of sub courses
+INFO 2022-07-14 13:13:16,747 root sub course counted is done
+INFO 2022-07-14 13:13:16,747 root starting a deletion of a new course
+INFO 2022-07-14 13:13:16,747 root deleted is completed
+INFO 2022-07-14 13:13:16,748 root registrating a new student
+INFO 2022-07-14 13:13:16,748 root student registration is completed
+INFO 2022-07-14 13:13:16,748 root updating the emailid of the student
+INFO 2022-07-14 13:13:16,748 root emailid updation is done
+INFO 2022-07-14 13:13:16,748 root creation the blog
+INFO 2022-07-14 13:13:16,748 root blog is stored 
+INFO 2022-07-14 13:14:01,198 root welcome students
+INFO 2022-07-14 13:14:01,198 root total count of the student
+INFO 2022-07-14 13:14:01,198 root build new version neuron plateform
+INFO 2022-07-14 13:14:01,198 root Neuron is created
+INFO 2022-07-14 13:14:01,198 root cost affordable started for a neuron
+INFO 2022-07-14 13:14:01,198 root cost of neuron is returned
+INFO 2022-07-14 13:14:01,198 root build list of course for an instructor
+INFO 2022-07-14 13:14:01,198 root course list created and returned
+INFO 2022-07-14 13:14:01,198 root cost started foa a course
+INFO 2022-07-14 13:14:01,198 root cost of course is reeturned
+INFO 2022-07-14 13:14:01,198 root starting registration of an instructor
+INFO 2022-07-14 13:14:01,198 root Instructor registration done
+INFO 2022-07-14 13:14:01,198 root sub course registration is done
+INFO 2022-07-14 13:14:01,198 root sub course is done
+INFO 2022-07-14 13:14:01,198 root starting counting of sub courses
+INFO 2022-07-14 13:14:01,198 root sub course counted is done
+INFO 2022-07-14 13:14:01,198 root starting a deletion of a new course
+INFO 2022-07-14 13:14:01,198 root deleted is completed
+INFO 2022-07-14 13:14:01,198 root registrating a new student
+INFO 2022-07-14 13:14:01,198 root student registration is completed
+INFO 2022-07-14 13:14:01,198 root updating the emailid of the student
+INFO 2022-07-14 13:14:01,198 root emailid updation is done
+INFO 2022-07-14 13:14:01,198 root creation the blog
+INFO 2022-07-14 13:14:01,198 root blog is stored 
+INFO 2022-07-14 13:14:39,783 root welcome students
+INFO 2022-07-14 13:14:39,783 root total count of the student
+INFO 2022-07-14 13:14:39,783 root build new version neuron plateform
+INFO 2022-07-14 13:14:39,783 root Neuron is created
+INFO 2022-07-14 13:14:39,783 root cost affordable started for a neuron
+INFO 2022-07-14 13:14:39,783 root cost of neuron is returned
+INFO 2022-07-14 13:14:39,783 root build list of course for an instructor
+INFO 2022-07-14 13:14:39,783 root course list created and returned
+INFO 2022-07-14 13:14:39,783 root cost started foa a course
+INFO 2022-07-14 13:14:39,783 root cost of course is reeturned
+INFO 2022-07-14 13:14:39,783 root starting registration of an instructor
+INFO 2022-07-14 13:14:39,783 root Instructor registration done
+INFO 2022-07-14 13:14:39,783 root sub course registration is done
+INFO 2022-07-14 13:14:39,783 root sub course is done
+INFO 2022-07-14 13:14:39,783 root starting counting of sub courses
+INFO 2022-07-14 13:14:39,783 root sub course counted is done
+INFO 2022-07-14 13:14:39,783 root starting a deletion of a new course
+INFO 2022-07-14 13:14:39,783 root deleted is completed
+INFO 2022-07-14 13:14:39,783 root registrating a new student
+INFO 2022-07-14 13:14:39,783 root student registration is completed
+INFO 2022-07-14 13:14:39,783 root updating the emailid of the student
+INFO 2022-07-14 13:14:39,783 root emailid updation is done
+INFO 2022-07-14 13:14:39,783 root creation the blog
+INFO 2022-07-14 13:14:39,783 root blog is stored 
+INFO 2022-07-14 13:17:53,031 root welcome students
+INFO 2022-07-14 13:17:53,031 root total count of the student
+INFO 2022-07-14 13:17:53,031 root build new version neuron plateform
+INFO 2022-07-14 13:17:53,031 root Neuron is created
+INFO 2022-07-14 13:17:53,031 root cost affordable started for a neuron
+INFO 2022-07-14 13:17:53,031 root cost of neuron is returned
+INFO 2022-07-14 13:17:53,031 root build list of course for an instructor
+INFO 2022-07-14 13:17:53,031 root course list created and returned
+INFO 2022-07-14 13:17:53,031 root cost started foa a course
+INFO 2022-07-14 13:17:53,031 root cost of course is reeturned
+INFO 2022-07-14 13:17:53,031 root starting registration of an instructor
+INFO 2022-07-14 13:17:53,031 root Instructor registration done
+INFO 2022-07-14 13:17:53,031 root sub course registration is done
+INFO 2022-07-14 13:17:53,031 root sub course is done
+INFO 2022-07-14 13:17:53,032 root starting counting of sub courses
+INFO 2022-07-14 13:17:53,032 root sub course counted is done
+INFO 2022-07-14 13:17:53,032 root starting a deletion of a new course
+INFO 2022-07-14 13:17:53,032 root deleted is completed
+INFO 2022-07-14 13:17:53,032 root registrating a new student
+INFO 2022-07-14 13:17:53,032 root student registration is completed
+INFO 2022-07-14 13:17:53,032 root updating the emailid of the student
+INFO 2022-07-14 13:17:53,032 root emailid updation is done
+INFO 2022-07-14 13:17:53,032 root creation the blog
+INFO 2022-07-14 13:17:53,032 root blog is stored 
+INFO 2022-07-14 13:17:53,032 root fetching the blog types
+INFO 2022-07-14 13:17:53,032 root blog types list is done
+INFO 2022-07-14 13:17:53,032 root starting the affiliate process
+INFO 2022-07-14 13:17:53,032 root Affiliation verified 
+INFO 2022-07-14 13:17:53,032 root updating the bank details
+INFO 2022-07-14 13:17:53,033 root bank updated is succesfully
+INFO 2022-07-14 13:17:53,033 root starting to searhing for job
+INFO 2022-07-14 13:17:53,033 root list genrated for given job type
+INFO 2022-07-14 13:21:06,763 root welcome students
+INFO 2022-07-14 13:21:06,764 root total count of the student
+INFO 2022-07-14 13:21:06,764 root build new version neuron plateform
+INFO 2022-07-14 13:21:06,764 root Neuron is created
+INFO 2022-07-14 13:21:06,764 root cost affordable started for a neuron
+INFO 2022-07-14 13:21:06,764 root cost of neuron is returned
+INFO 2022-07-14 13:21:06,765 root build list of course for an instructor
+INFO 2022-07-14 13:21:06,765 root course list created and returned
+INFO 2022-07-14 13:21:06,765 root cost started foa a course
+INFO 2022-07-14 13:21:06,765 root cost of course is reeturned
+INFO 2022-07-14 13:21:06,765 root starting registration of an instructor
+INFO 2022-07-14 13:21:06,765 root Instructor registration done
+INFO 2022-07-14 13:21:06,765 root sub course registration is done
+INFO 2022-07-14 13:21:06,766 root sub course is done
+INFO 2022-07-14 13:21:06,766 root starting counting of sub courses
+INFO 2022-07-14 13:21:06,766 root sub course counted is done
+INFO 2022-07-14 13:21:06,766 root starting a deletion of a new course
+INFO 2022-07-14 13:21:06,766 root deleted is completed
+INFO 2022-07-14 13:21:06,766 root registrating a new student
+INFO 2022-07-14 13:21:06,766 root student registration is completed
+INFO 2022-07-14 13:21:06,766 root updating the emailid of the student
+INFO 2022-07-14 13:21:06,766 root emailid updation is done
+INFO 2022-07-14 13:21:06,767 root creation the blog
+INFO 2022-07-14 13:21:06,767 root blog is stored 
+INFO 2022-07-14 13:21:06,767 root fetching the blog types
+INFO 2022-07-14 13:21:06,767 root blog types list is done
+INFO 2022-07-14 13:21:06,767 root starting the affiliate process
+INFO 2022-07-14 13:21:06,767 root Affiliation verified 
+INFO 2022-07-14 13:21:06,767 root updating the bank details
+INFO 2022-07-14 13:21:06,767 root bank updated is succesfully
+INFO 2022-07-14 13:21:06,768 root starting to searhing for job
+INFO 2022-07-14 13:21:06,768 root list genrated for given job type
+INFO 2022-07-14 13:21:06,768 root stor the query
+INFO 2022-07-14 13:21:06,768 root Query created
+INFO 2022-07-14 22:17:33,708 root welcome students
+INFO 2022-07-14 22:17:33,725 root total count of the student
+INFO 2022-07-14 22:17:33,725 root build new version neuron plateform
+INFO 2022-07-14 22:17:33,725 root Neuron is created
+INFO 2022-07-14 22:17:33,725 root cost affordable started for a neuron
+INFO 2022-07-14 22:17:33,725 root cost of neuron is returned
+INFO 2022-07-14 22:17:33,725 root creating list of courses for an instructor
+INFO 2022-07-14 22:17:33,725 root course list is created and returned
+INFO 2022-07-14 22:17:33,725 root cost charge started of the course 
+INFO 2022-07-14 22:17:33,726 root cost the course is returned now
+INFO 2022-07-14 22:17:33,726 root starting registration of an instructor
+INFO 2022-07-14 22:17:33,726 root Instructor registration done
+INFO 2022-07-14 22:17:33,726 root sub course registration is done
+INFO 2022-07-14 22:17:33,726 root sub course is done
+INFO 2022-07-14 22:17:33,726 root starting counting of sub courses
+INFO 2022-07-14 22:17:33,726 root sub course counted is done
+INFO 2022-07-14 22:17:33,726 root starting a deletion of a new course
+INFO 2022-07-14 22:17:33,726 root deleted is completed
+INFO 2022-07-14 22:17:33,726 root registrating a new student
+INFO 2022-07-14 22:17:33,726 root updating the emailid of the student
+INFO 2022-07-14 22:17:33,726 root emailid updation is done
+INFO 2022-07-14 22:17:33,726 root creation the blog
+INFO 2022-07-14 22:17:33,726 root blog is stored 
+INFO 2022-07-14 22:17:33,727 root fetching the blog types
+INFO 2022-07-14 22:17:33,727 root blog types list is done
+INFO 2022-07-14 22:17:33,727 root starting the affiliate process
+INFO 2022-07-14 22:17:33,727 root Affiliation verified 
+INFO 2022-07-14 22:17:33,727 root updating the bank details
+INFO 2022-07-14 22:17:33,727 root bank updated is succesfully
+INFO 2022-07-14 22:17:33,727 root starting to searhing for job
+INFO 2022-07-14 22:17:33,727 root list genrated for given job type
+INFO 2022-07-14 22:17:33,727 root stor the query
+INFO 2022-07-14 22:17:33,727 root Query created
+INFO 2022-07-14 22:17:43,216 root welcome students
+INFO 2022-07-14 22:17:43,217 root total count of the student
+INFO 2022-07-14 22:17:43,217 root build new version neuron plateform
+INFO 2022-07-14 22:17:43,217 root Neuron is created
+INFO 2022-07-14 22:17:43,217 root cost affordable started for a neuron
+INFO 2022-07-14 22:17:43,217 root cost of neuron is returned
+INFO 2022-07-14 22:17:43,217 root build list of course for an instructor
+INFO 2022-07-14 22:17:43,217 root course list created and returned
+INFO 2022-07-14 22:17:43,217 root build list of course for an instructor
+INFO 2022-07-14 22:17:43,217 root course list created and returned
+INFO 2022-07-14 22:17:43,217 root starting registration of an instructor
+INFO 2022-07-14 22:17:43,217 root Instructor registration done
+INFO 2022-07-14 22:17:43,217 root sub course registration is done
+INFO 2022-07-14 22:17:43,217 root sub course is done
+INFO 2022-07-14 22:17:43,217 root starting counting of sub courses
+INFO 2022-07-14 22:17:43,217 root sub course counted is done
+INFO 2022-07-14 22:17:43,217 root starting a deletion of a new course
+INFO 2022-07-14 22:17:43,217 root deleted is completed
+INFO 2022-07-14 22:17:43,218 root registrating a new student
+INFO 2022-07-14 22:17:43,218 root student registration is completed
+INFO 2022-07-14 22:17:43,218 root updating the emailid of the student
+INFO 2022-07-14 22:17:43,218 root emailid updation is done
+INFO 2022-07-14 22:17:43,218 root starting registration of an instructor
+INFO 2022-07-14 22:17:43,218 root Instructor registration done
+INFO 2022-07-14 22:17:43,218 root starting the affiliate process
+INFO 2022-07-14 22:17:43,218 root Affiliation verified 
+INFO 2022-07-14 22:17:43,218 root updating the bank details
+INFO 2022-07-14 22:17:43,218 root bank updated is succesfully
+INFO 2022-07-14 22:17:43,218 root verifyin the tech neuron language
+INFO 2022-07-14 22:17:43,218 root returning the courses language
+INFO 2022-07-14 22:17:43,218 root created the list of language
+ERROR 2022-07-14 22:17:43,218 root mistake during verified 
+INFO 2022-07-14 22:20:52,722 root welcome students
+INFO 2022-07-14 22:20:52,722 root total count of the student
+INFO 2022-07-14 22:20:52,722 root build new version neuron plateform
+INFO 2022-07-14 22:20:52,722 root Neuron is created
+INFO 2022-07-14 22:20:52,722 root cost affordable started for a neuron
+INFO 2022-07-14 22:20:52,722 root cost of neuron is returned
+INFO 2022-07-14 22:20:52,723 root build list of course for an instructor
+INFO 2022-07-14 22:20:52,723 root course list created and returned
+INFO 2022-07-14 22:20:52,723 root build list of course for an instructor
+INFO 2022-07-14 22:20:52,723 root course list created and returned
+INFO 2022-07-14 22:20:52,723 root starting registration of an instructor
+INFO 2022-07-14 22:20:52,723 root Instructor registration done
+INFO 2022-07-14 22:20:52,723 root sub course registration is done
+INFO 2022-07-14 22:20:52,723 root sub course is done
+INFO 2022-07-14 22:20:52,723 root starting counting of sub courses
+INFO 2022-07-14 22:20:52,723 root sub course counted is done
+INFO 2022-07-14 22:20:52,723 root starting a deletion of a new course
+INFO 2022-07-14 22:20:52,723 root deleted is completed
+INFO 2022-07-14 22:20:52,723 root registrating a new student
+INFO 2022-07-14 22:20:52,724 root student registration is completed
+INFO 2022-07-14 22:20:52,724 root updating the emailid of the student
+INFO 2022-07-14 22:20:52,724 root emailid updation is done
+INFO 2022-07-14 22:20:52,724 root starting registration of an instructor
+INFO 2022-07-14 22:20:52,724 root Instructor registration done
+INFO 2022-07-14 22:20:52,724 root starting the affiliate process
+INFO 2022-07-14 22:20:52,724 root Affiliation verified 
+INFO 2022-07-14 22:20:52,724 root updating the bank details
+INFO 2022-07-14 22:20:52,724 root bank updated is succesfully
+INFO 2022-07-14 22:20:52,724 root verifyin the tech neuron language
+INFO 2022-07-14 22:20:52,724 root returning the courses language
+INFO 2022-07-14 22:20:52,724 root created the list of language
+ERROR 2022-07-14 22:20:52,724 root mistake during verified 
+INFO 2022-07-14 22:24:25,823 root welcome students
+INFO 2022-07-14 22:24:25,824 root total count of the student
+INFO 2022-07-14 22:24:25,824 root build new version neuron plateform
+INFO 2022-07-14 22:24:25,824 root Neuron is created
+INFO 2022-07-14 22:24:25,824 root cost affordable started for a neuron
+INFO 2022-07-14 22:24:25,824 root cost of neuron is returned
+INFO 2022-07-14 22:24:25,824 root build list of course for an instructor
+INFO 2022-07-14 22:24:25,825 root course list created and returned
+INFO 2022-07-14 22:24:25,825 root build list of course for an instructor
+INFO 2022-07-14 22:24:25,825 root course list created and returned
+INFO 2022-07-14 22:24:25,825 root starting registration of an instructor
+INFO 2022-07-14 22:24:25,825 root Instructor registration done
+INFO 2022-07-14 22:24:25,825 root sub course registration is done
+INFO 2022-07-14 22:24:25,825 root sub course is done
+INFO 2022-07-14 22:24:25,825 root starting counting of sub courses
+INFO 2022-07-14 22:24:25,826 root sub course counted is done
+INFO 2022-07-14 22:24:25,826 root starting a deletion of a new course
+INFO 2022-07-14 22:24:25,826 root deleted is completed
+INFO 2022-07-14 22:24:25,826 root registrating a new student
+INFO 2022-07-14 22:24:25,826 root student registration is completed
+INFO 2022-07-14 22:24:25,826 root updating the emailid of the student
+INFO 2022-07-14 22:24:25,826 root emailid updation is done
+INFO 2022-07-14 22:24:25,826 root starting registration of an instructor
+INFO 2022-07-14 22:24:25,826 root Instructor registration done
+INFO 2022-07-14 22:24:25,827 root starting the affiliate process
+INFO 2022-07-14 22:24:25,827 root Affiliation verified 
+INFO 2022-07-14 22:24:25,827 root updating the bank details
+INFO 2022-07-14 22:24:25,827 root bank updated is succesfully
+INFO 2022-07-14 22:24:25,827 root verifyin the tech neuron language
+INFO 2022-07-14 22:24:25,827 root returning the courses language
+INFO 2022-07-14 22:24:25,827 root created the list of language
+ERROR 2022-07-14 22:24:25,827 root mistake during verified 
+INFO 2022-07-14 22:27:47,520 root welcome students
+INFO 2022-07-14 22:27:47,520 root total count of the student
+INFO 2022-07-14 22:27:47,520 root build new version neuron plateform
+INFO 2022-07-14 22:27:47,520 root Neuron is created
+INFO 2022-07-14 22:27:47,520 root cost affordable started for a neuron
+INFO 2022-07-14 22:27:47,520 root cost of neuron is returned
+INFO 2022-07-14 22:27:47,521 root build list of course for an instructor
+INFO 2022-07-14 22:27:47,521 root course list created and returned
+INFO 2022-07-14 22:27:47,521 root build list of course for an instructor
+INFO 2022-07-14 22:27:47,521 root course list created and returned
+INFO 2022-07-14 22:27:47,521 root starting registration of an instructor
+INFO 2022-07-14 22:27:47,521 root Instructor registration done
+INFO 2022-07-14 22:27:47,521 root sub course registration is done
+INFO 2022-07-14 22:27:47,521 root sub course is done
+INFO 2022-07-14 22:27:47,521 root starting counting of sub courses
+INFO 2022-07-14 22:27:47,521 root sub course counted is done
+INFO 2022-07-14 22:27:47,521 root starting a deletion of a new course
+INFO 2022-07-14 22:27:47,521 root deleted is completed
+INFO 2022-07-14 22:27:47,521 root registrating a new student
+INFO 2022-07-14 22:27:47,521 root student registration is completed
+INFO 2022-07-14 22:27:47,522 root updating the emailid of the student
+INFO 2022-07-14 22:27:47,522 root emailid updation is done
+INFO 2022-07-14 22:27:47,522 root starting registration of an instructor
+INFO 2022-07-14 22:27:47,522 root Instructor registration done
+INFO 2022-07-14 22:27:47,522 root starting the affiliate process
+INFO 2022-07-14 22:27:47,522 root Affiliation verified 
+INFO 2022-07-14 22:27:47,522 root updating the bank details
+INFO 2022-07-14 22:27:47,522 root bank updated is succesfully
+INFO 2022-07-14 22:27:47,522 root verifyin the tech neuron language
+INFO 2022-07-14 22:27:47,522 root returning the courses language
+INFO 2022-07-14 22:27:47,522 root created the list of language
+ERROR 2022-07-14 22:27:47,522 root mistake during verified 
+INFO 2022-07-14 22:30:54,361 root welcome students
+INFO 2022-07-14 22:30:54,361 root total count of the student
+INFO 2022-07-14 22:30:54,361 root build new version neuron plateform
+INFO 2022-07-14 22:30:54,361 root Neuron is created
+INFO 2022-07-14 22:30:54,361 root cost affordable started for a neuron
+INFO 2022-07-14 22:30:54,361 root cost of neuron is returned
+INFO 2022-07-14 22:30:54,362 root build list of course for an instructor
+INFO 2022-07-14 22:30:54,362 root course list created and returned
+INFO 2022-07-14 22:30:54,362 root build list of course for an instructor
+INFO 2022-07-14 22:30:54,362 root course list created and returned
+INFO 2022-07-14 22:30:54,362 root starting registration of an instructor
+INFO 2022-07-14 22:30:54,362 root Instructor registration done
+INFO 2022-07-14 22:30:54,362 root sub course registration is done
+INFO 2022-07-14 22:30:54,362 root sub course is done
+INFO 2022-07-14 22:30:54,362 root starting counting of sub courses
+INFO 2022-07-14 22:30:54,362 root sub course counted is done
+INFO 2022-07-14 22:30:54,362 root starting a deletion of a new course
+INFO 2022-07-14 22:30:54,362 root deleted is completed
+INFO 2022-07-14 22:30:54,362 root registrating a new student
+INFO 2022-07-14 22:30:54,362 root student registration is completed
+INFO 2022-07-14 22:30:54,362 root updating the emailid of the student
+INFO 2022-07-14 22:30:54,362 root emailid updation is done
+INFO 2022-07-14 22:30:54,363 root starting registration of an instructor
+INFO 2022-07-14 22:30:54,363 root Instructor registration done
+INFO 2022-07-14 22:30:54,363 root starting the affiliate process
+INFO 2022-07-14 22:30:54,363 root Affiliation verified 
+INFO 2022-07-14 22:30:54,363 root updating the bank details
+INFO 2022-07-14 22:30:54,363 root bank updated is succesfully
+INFO 2022-07-14 22:30:54,363 root verifyin the tech neuron language
+INFO 2022-07-14 22:30:54,363 root returning the courses language
+INFO 2022-07-14 22:30:54,363 root created the list of language
+ERROR 2022-07-14 22:30:54,363 root mistake during verified 
+INFO 2022-07-14 22:31:30,074 root welcome student
+INFO 2022-07-14 22:31:30,074 root total count of the student
+INFO 2022-07-14 22:31:30,074 root build new version neuron plateform
+INFO 2022-07-14 22:31:30,074 root Neuron is created
+INFO 2022-07-14 22:31:30,074 root cost affordable started for a neuron
+INFO 2022-07-14 22:31:30,074 root cost of neuron is returned
+INFO 2022-07-14 22:31:30,074 root build list of course for an instructor
+INFO 2022-07-14 22:31:30,074 root course list created and returned
+INFO 2022-07-14 22:31:30,074 root build list of course for an instructor
+INFO 2022-07-14 22:31:30,074 root course list created and returned
+INFO 2022-07-14 22:31:30,075 root starting registration of an instructor
+INFO 2022-07-14 22:31:30,075 root Instructor registration done
+INFO 2022-07-14 22:31:30,075 root sub course registration is done
+INFO 2022-07-14 22:31:30,075 root sub course is done
+INFO 2022-07-14 22:31:30,075 root starting counting of sub courses
+INFO 2022-07-14 22:31:30,075 root sub course counted is done
+INFO 2022-07-14 22:31:30,075 root starting a deletion of a new course
+INFO 2022-07-14 22:31:30,075 root deleted is completed
+INFO 2022-07-14 22:31:30,075 root registrating a new student
+INFO 2022-07-14 22:31:30,075 root student registration is completed
+INFO 2022-07-14 22:31:30,075 root updating the emailid of the student
+INFO 2022-07-14 22:31:30,075 root emailid updation is done
+INFO 2022-07-14 22:31:30,075 root starting registration of an instructor
+INFO 2022-07-14 22:31:30,075 root Instructor registration done
+INFO 2022-07-14 22:31:30,075 root starting the affiliate process
+INFO 2022-07-14 22:31:30,075 root Affiliation verified 
+INFO 2022-07-14 22:31:30,075 root updating the bank details
+INFO 2022-07-14 22:31:30,076 root bank updated is succesfully
+INFO 2022-07-14 22:31:30,076 root verifyin the tech neuron language
+INFO 2022-07-14 22:31:30,076 root returning the courses language
+INFO 2022-07-14 22:31:30,076 root created the list of language
+ERROR 2022-07-14 22:31:30,076 root mistake during verified 
+INFO 2022-07-14 22:33:00,945 root welcome student
+INFO 2022-07-14 22:33:00,945 root total count of the student
+INFO 2022-07-14 22:33:00,945 root build new version neuron plateform
+INFO 2022-07-14 22:33:00,945 root Neuron is created
+INFO 2022-07-14 22:33:00,945 root cost affordable started for a neuron
+INFO 2022-07-14 22:33:00,945 root cost of neuron is returned
+INFO 2022-07-14 22:33:00,945 root build list of course for an instructor
+INFO 2022-07-14 22:33:00,945 root course list created and returned
+INFO 2022-07-14 22:33:00,945 root build list of course for an instructor
+INFO 2022-07-14 22:33:00,945 root course list created and returned
+INFO 2022-07-14 22:33:00,945 root starting registration of an instructor
+INFO 2022-07-14 22:33:00,945 root Instructor registration done
+INFO 2022-07-14 22:33:00,946 root sub course registration is done
+INFO 2022-07-14 22:33:00,946 root sub course is done
+INFO 2022-07-14 22:33:00,946 root starting counting of sub courses
+INFO 2022-07-14 22:33:00,946 root sub course counted is done
+INFO 2022-07-14 22:33:00,946 root starting a deletion of a new course
+INFO 2022-07-14 22:33:00,946 root deleted is completed
+INFO 2022-07-14 22:33:00,946 root registrating a new student
+INFO 2022-07-14 22:33:00,946 root student registration is completed
+INFO 2022-07-14 22:33:00,946 root updating the emailid of the student
+INFO 2022-07-14 22:33:00,946 root emailid updation is done
+INFO 2022-07-14 22:33:00,946 root starting registration of an instructor
+INFO 2022-07-14 22:33:00,947 root Instructor registration done
+INFO 2022-07-14 22:33:00,947 root starting the affiliate process
+INFO 2022-07-14 22:33:00,947 root Affiliation verified 
+INFO 2022-07-14 22:33:00,947 root updating the bank details
+INFO 2022-07-14 22:33:00,947 root bank updated is succesfully
+INFO 2022-07-14 22:33:00,947 root verifyin the tech neuron language
+INFO 2022-07-14 22:33:00,947 root returning the courses language
+INFO 2022-07-14 22:33:00,947 root created the list of language
+ERROR 2022-07-14 22:33:00,947 root mistake during verified 
+INFO 2022-07-14 22:34:50,872 root welcome student
+INFO 2022-07-14 22:34:50,873 root total count of the student
+INFO 2022-07-14 22:34:50,873 root build new version neuron plateform
+INFO 2022-07-14 22:34:50,873 root Neuron is created
+INFO 2022-07-14 22:34:50,873 root cost affordable started for a neuron
+INFO 2022-07-14 22:34:50,873 root cost of neuron is returned
+INFO 2022-07-14 22:34:50,873 root build list of course for an instructor
+INFO 2022-07-14 22:34:50,873 root course list created and returned
+INFO 2022-07-14 22:34:50,873 root build list of course for an instructor
+INFO 2022-07-14 22:34:50,873 root course list created and returned
+INFO 2022-07-14 22:34:50,873 root starting registration of an instructor
+INFO 2022-07-14 22:34:50,873 root Instructor registration done
+INFO 2022-07-14 22:34:50,873 root sub course registration is done
+INFO 2022-07-14 22:34:50,873 root sub course is done
+INFO 2022-07-14 22:34:50,873 root starting counting of sub courses
+INFO 2022-07-14 22:34:50,874 root sub course counted is done
+INFO 2022-07-14 22:34:50,874 root starting a deletion of a new course
+INFO 2022-07-14 22:34:50,874 root deleted is completed
+INFO 2022-07-14 22:34:50,874 root registrating a new student
+INFO 2022-07-14 22:34:50,874 root student registration is completed
+INFO 2022-07-14 22:34:50,874 root updating the emailid of the student
+INFO 2022-07-14 22:34:50,874 root emailid updation is done
+INFO 2022-07-14 22:34:50,874 root starting registration of an instructor
+INFO 2022-07-14 22:34:50,874 root Instructor registration done
+INFO 2022-07-14 22:34:50,874 root starting the affiliate process
+INFO 2022-07-14 22:34:50,874 root Affiliation verified 
+INFO 2022-07-14 22:34:50,874 root updating the bank details
+INFO 2022-07-14 22:34:50,874 root bank updated is succesfully
+INFO 2022-07-14 22:34:50,874 root verifyin the tech neuron language
+INFO 2022-07-14 22:34:50,875 root returning the courses language
+INFO 2022-07-14 22:34:50,875 root created the list of language
+ERROR 2022-07-14 22:34:50,875 root mistake during verified 
+INFO 2022-07-14 22:39:46,452 root welcome student
+INFO 2022-07-14 22:39:46,452 root total count of the student
+INFO 2022-07-14 22:39:46,452 root build new version neuron plateform
+INFO 2022-07-14 22:39:46,453 root Neuron is created
+INFO 2022-07-14 22:39:46,453 root cost affordable started for a neuron
+INFO 2022-07-14 22:39:46,453 root cost of neuron is returned
+INFO 2022-07-14 22:39:46,453 root build list of course for an instructor
+INFO 2022-07-14 22:39:46,453 root course list created and returned
+INFO 2022-07-14 22:39:46,453 root build list of course for an instructor
+INFO 2022-07-14 22:39:46,453 root course list created and returned
+INFO 2022-07-14 22:39:46,453 root starting registration of an instructor
+INFO 2022-07-14 22:39:46,453 root Instructor registration done
+INFO 2022-07-14 22:39:46,453 root sub course registration is done
+INFO 2022-07-14 22:39:46,453 root sub course is done
+INFO 2022-07-14 22:39:46,453 root starting counting of sub courses
+INFO 2022-07-14 22:39:46,453 root sub course counted is done
+INFO 2022-07-14 22:39:46,453 root starting a deletion of a new course
+INFO 2022-07-14 22:39:46,453 root deleted is completed
+INFO 2022-07-14 22:39:46,453 root registrating a new student
+INFO 2022-07-14 22:39:46,454 root student registration is completed
+INFO 2022-07-14 22:39:46,454 root updating the emailid of the student
+INFO 2022-07-14 22:39:46,454 root emailid updation is done
+INFO 2022-07-14 22:39:46,455 root starting registration of an instructor
+INFO 2022-07-14 22:39:46,455 root Instructor registration done
+INFO 2022-07-14 22:39:46,455 root starting the affiliate process
+INFO 2022-07-14 22:39:46,455 root Affiliation verified 
+INFO 2022-07-14 22:39:46,455 root updating the bank details
+INFO 2022-07-14 22:39:46,455 root bank updated is succesfully
+INFO 2022-07-14 22:39:46,455 root verifyin the tech neuron language
+INFO 2022-07-14 22:39:46,455 root returning the courses language
+INFO 2022-07-14 22:39:46,455 root created the list of language
+ERROR 2022-07-14 22:39:46,455 root mistake during verified 
+INFO 2022-07-14 22:43:39,352 root welcome student
+INFO 2022-07-14 22:43:39,352 root total count of the student
+INFO 2022-07-14 22:43:39,352 root build new version neuron plateform
+INFO 2022-07-14 22:43:39,353 root Neuron is created
+INFO 2022-07-14 22:43:39,353 root cost affordable started for a neuron
+INFO 2022-07-14 22:43:39,353 root cost of neuron is returned
+INFO 2022-07-14 22:43:39,353 root build list of course for an instructor
+INFO 2022-07-14 22:43:39,353 root course list created and returned
+INFO 2022-07-14 22:43:39,353 root build list of course for an instructor
+INFO 2022-07-14 22:43:39,353 root course list created and returned
+INFO 2022-07-14 22:43:39,353 root starting registration of an instructor
+INFO 2022-07-14 22:43:39,353 root Instructor registration done
+INFO 2022-07-14 22:43:39,353 root sub course registration is done
+INFO 2022-07-14 22:43:39,353 root sub course is done
+INFO 2022-07-14 22:43:39,353 root starting counting of sub courses
+INFO 2022-07-14 22:43:39,353 root sub course counted is done
+INFO 2022-07-14 22:43:39,353 root starting a deletion of a new course
+INFO 2022-07-14 22:43:39,353 root deleted is completed
+INFO 2022-07-14 22:43:39,353 root registrating a new student
+INFO 2022-07-14 22:43:39,354 root student registration is completed
+INFO 2022-07-14 22:43:39,354 root updating the emailid of the student
+INFO 2022-07-14 22:43:39,354 root emailid updation is done
+INFO 2022-07-14 22:43:39,354 root starting registration of an instructor
+INFO 2022-07-14 22:43:39,354 root Instructor registration done
+INFO 2022-07-14 22:43:39,354 root starting the affiliate process
+INFO 2022-07-14 22:43:39,354 root Affiliation verified 
+INFO 2022-07-14 22:43:39,354 root updating the bank details
+INFO 2022-07-14 22:43:39,354 root bank updated is succesfully
+INFO 2022-07-14 22:43:39,354 root verifyin the tech neuron language
+INFO 2022-07-14 22:43:39,354 root returning the courses language
+INFO 2022-07-14 22:43:39,354 root created the list of language
+ERROR 2022-07-14 22:43:39,354 root mistake during verified 
+INFO 2022-07-15 09:53:01,223 root welcome student
+INFO 2022-07-15 09:53:01,263 root total count of the student
+INFO 2022-07-15 09:53:01,264 root build new version neuron plateform
+INFO 2022-07-15 09:53:01,264 root Neuron is created
+INFO 2022-07-15 09:53:01,264 root cost affordable started for a neuron
+INFO 2022-07-15 09:53:01,264 root cost of neuron is returned
+INFO 2022-07-15 09:53:01,265 root build list of course for an instructor
+INFO 2022-07-15 09:53:01,265 root course list created and returned
+INFO 2022-07-15 09:53:01,288 root build list of course for an instructor
+INFO 2022-07-15 09:53:01,288 root course list created and returned
+INFO 2022-07-15 09:53:01,289 root starting registration of an instructor
+INFO 2022-07-15 09:53:01,289 root Instructor registration done
+INFO 2022-07-15 09:53:01,290 root sub course registration is done
+INFO 2022-07-15 09:53:01,290 root sub course is done
+INFO 2022-07-15 09:53:01,291 root starting counting of sub courses
+INFO 2022-07-15 09:53:01,291 root sub course counted is done
+INFO 2022-07-15 09:53:01,291 root starting a deletion of a new course
+INFO 2022-07-15 09:53:01,291 root deleted is completed
+INFO 2022-07-15 09:53:01,291 root registrating a new student
+INFO 2022-07-15 09:53:01,292 root student registration is completed
+INFO 2022-07-15 09:53:01,292 root updating the emailid of the student
+INFO 2022-07-15 09:53:01,292 root emailid updation is done
+INFO 2022-07-15 09:53:01,292 root starting registration of an instructor
+INFO 2022-07-15 09:53:01,293 root Instructor registration done
+INFO 2022-07-15 09:53:01,293 root starting the affiliate process
+INFO 2022-07-15 09:53:01,293 root Affiliation verified 
+INFO 2022-07-15 09:53:01,293 root updating the bank details
+INFO 2022-07-15 09:53:01,293 root bank updated is succesfully
+INFO 2022-07-15 09:53:01,295 root verifyin the tech neuron language
+INFO 2022-07-15 09:53:01,295 root returning the courses language
+INFO 2022-07-15 09:53:01,295 root created the list of language
+ERROR 2022-07-15 09:53:01,295 root mistake during verified 
+INFO 2022-07-15 09:55:17,686 root welcome student
+INFO 2022-07-15 09:55:17,686 root total count of the student
+INFO 2022-07-15 09:55:17,686 root build new version neuron plateform
+INFO 2022-07-15 09:55:17,686 root Neuron is created
+INFO 2022-07-15 09:55:17,686 root cost affordable started for a neuron
+INFO 2022-07-15 09:55:17,686 root cost of neuron is returned
+INFO 2022-07-15 09:55:17,686 root build list of course for an instructor
+INFO 2022-07-15 09:55:17,686 root course list created and returned
+INFO 2022-07-15 09:55:17,686 root build list of course for an instructor
+INFO 2022-07-15 09:55:17,686 root course list created and returned
+INFO 2022-07-15 09:55:17,686 root starting registration of an instructor
+INFO 2022-07-15 09:55:17,686 root Instructor registration done
+INFO 2022-07-15 09:55:17,686 root sub course registration is done
+INFO 2022-07-15 09:55:17,686 root sub course is done
+INFO 2022-07-15 09:55:17,686 root starting counting of sub courses
+INFO 2022-07-15 09:55:17,686 root sub course counted is done
+INFO 2022-07-15 09:55:17,686 root starting a deletion of a new course
+INFO 2022-07-15 09:55:17,686 root deleted is completed
+INFO 2022-07-15 09:55:17,686 root registrating a new student
+INFO 2022-07-15 09:55:17,686 root student registration is completed
+INFO 2022-07-15 09:55:17,686 root updating the emailid of the student
+INFO 2022-07-15 09:55:17,686 root emailid updation is done
+INFO 2022-07-15 09:55:17,686 root starting registration of an instructor
+INFO 2022-07-15 09:55:17,686 root Instructor registration done
+INFO 2022-07-15 09:55:17,686 root starting the affiliate process
+INFO 2022-07-15 09:55:17,686 root Affiliation verified 
+INFO 2022-07-15 09:55:17,686 root updating the bank details
+INFO 2022-07-15 09:55:17,686 root bank updated is succesfully
+INFO 2022-07-15 09:55:17,686 root verifyin the tech neuron language
+INFO 2022-07-15 09:55:17,686 root returning the courses language
+INFO 2022-07-15 09:55:17,686 root created the list of language
+ERROR 2022-07-15 09:55:17,686 root mistake during verified 
+INFO 2022-07-15 10:02:37,325 root welcome student
+INFO 2022-07-15 10:02:37,325 root total count of the student
+INFO 2022-07-15 10:02:37,325 root build new version neuron plateform
+INFO 2022-07-15 10:02:37,325 root Neuron is created
+INFO 2022-07-15 10:02:37,325 root cost affordable started for a neuron
+INFO 2022-07-15 10:02:37,325 root cost of neuron is returned
+INFO 2022-07-15 10:02:37,325 root build list of course for an instructor
+INFO 2022-07-15 10:02:37,325 root course list created and returned
+INFO 2022-07-15 10:02:37,325 root build list of course for an instructor
+INFO 2022-07-15 10:02:37,325 root course list created and returned
+INFO 2022-07-15 10:02:37,325 root starting registration of an instructor
+INFO 2022-07-15 10:02:37,325 root Instructor registration done
+INFO 2022-07-15 10:02:37,325 root sub course registration is done
+INFO 2022-07-15 10:02:37,325 root sub course is done
+INFO 2022-07-15 10:02:37,325 root starting counting of sub courses
+INFO 2022-07-15 10:02:37,325 root sub course counted is done
+INFO 2022-07-15 10:02:37,325 root starting a deletion of a new course
+INFO 2022-07-15 10:02:37,325 root deleted is completed
+INFO 2022-07-15 10:02:37,325 root registrating a new student
+INFO 2022-07-15 10:02:37,325 root student registration is completed
+INFO 2022-07-15 10:02:37,325 root updating the emailid of the student
+INFO 2022-07-15 10:02:37,325 root emailid updation is done
+INFO 2022-07-15 10:02:37,325 root starting registration of an instructor
+INFO 2022-07-15 10:02:37,325 root Instructor registration done
+INFO 2022-07-15 10:02:37,325 root starting the affiliate process
+INFO 2022-07-15 10:02:37,325 root Affiliation verified 
+INFO 2022-07-15 10:02:37,325 root updating the bank details
+INFO 2022-07-15 10:02:37,325 root bank updated is succesfully
+INFO 2022-07-15 10:02:37,325 root verifyin the tech neuron language
+INFO 2022-07-15 10:02:37,325 root returning the courses language
+INFO 2022-07-15 10:02:37,325 root created the list of language
+ERROR 2022-07-15 10:02:37,325 root mistake during verified 
+INFO 2022-07-15 10:03:07,512 root welcome student
+INFO 2022-07-15 10:03:07,512 root total count of the student
+INFO 2022-07-15 10:03:07,512 root build new version neuron plateform
+INFO 2022-07-15 10:03:07,512 root Neuron is created
+INFO 2022-07-15 10:03:07,512 root cost affordable started for a neuron
+INFO 2022-07-15 10:03:07,512 root cost of neuron is returned
+INFO 2022-07-15 10:03:07,512 root build list of course for an instructor
+INFO 2022-07-15 10:03:07,512 root course list created and returned
+INFO 2022-07-15 10:03:07,512 root build list of course for an instructor
+INFO 2022-07-15 10:03:07,512 root course list created and returned
+INFO 2022-07-15 10:03:07,512 root starting registration of an instructor
+INFO 2022-07-15 10:03:07,512 root Instructor registration done
+INFO 2022-07-15 10:03:07,512 root sub course registration is done
+INFO 2022-07-15 10:03:07,512 root sub course is done
+INFO 2022-07-15 10:03:07,512 root starting counting of sub courses
+INFO 2022-07-15 10:03:07,512 root sub course counted is done
+INFO 2022-07-15 10:03:07,512 root starting a deletion of a new course
+INFO 2022-07-15 10:03:07,512 root deleted is completed
+INFO 2022-07-15 10:03:07,512 root registrating a new student
+INFO 2022-07-15 10:03:07,512 root student registration is completed
+INFO 2022-07-15 10:03:07,512 root updating the emailid of the student
+INFO 2022-07-15 10:03:07,512 root emailid updation is done
+INFO 2022-07-15 10:03:07,512 root starting registration of an instructor
+INFO 2022-07-15 10:03:07,512 root Instructor registration done
+INFO 2022-07-15 10:03:07,512 root starting the affiliate process
+INFO 2022-07-15 10:03:07,512 root Affiliation verified 
+INFO 2022-07-15 10:03:07,512 root updating the bank details
+INFO 2022-07-15 10:03:07,512 root bank updated is succesfully
+INFO 2022-07-15 10:03:07,512 root verifyin the tech neuron language
+INFO 2022-07-15 10:03:07,512 root returning the courses language
+INFO 2022-07-15 10:03:07,512 root created the list of language
+ERROR 2022-07-15 10:03:07,512 root mistake during verified 
+INFO 2022-07-15 10:07:08,057 root welcome student
+INFO 2022-07-15 10:07:08,057 root total count of the student
+INFO 2022-07-15 10:07:08,057 root build new version neuron plateform
+INFO 2022-07-15 10:07:08,057 root Neuron is created
+INFO 2022-07-15 10:07:08,057 root cost affordable started for a neuron
+INFO 2022-07-15 10:07:08,057 root cost of neuron is returned
+INFO 2022-07-15 10:07:08,057 root build list of course for an instructor
+INFO 2022-07-15 10:07:08,057 root course list created and returned
+INFO 2022-07-15 10:07:08,057 root build list of course for an instructor
+INFO 2022-07-15 10:07:08,057 root course list created and returned
+INFO 2022-07-15 10:07:08,057 root starting registration of an instructor
+INFO 2022-07-15 10:07:08,057 root Instructor registration done
+INFO 2022-07-15 10:07:08,058 root sub course registration is done
+INFO 2022-07-15 10:07:08,058 root sub course is done
+INFO 2022-07-15 10:07:08,058 root starting counting of sub courses
+INFO 2022-07-15 10:07:08,058 root sub course counted is done
+INFO 2022-07-15 10:07:08,058 root starting a deletion of a new course
+INFO 2022-07-15 10:07:08,058 root deleted is completed
+INFO 2022-07-15 10:07:08,058 root registrating a new student
+INFO 2022-07-15 10:07:08,058 root student registration is completed
+INFO 2022-07-15 10:07:08,058 root updating the emailid of the student
+INFO 2022-07-15 10:07:08,058 root emailid updation is done
+INFO 2022-07-15 10:07:08,058 root starting registration of an instructor
+INFO 2022-07-15 10:07:08,058 root Instructor registration done
+INFO 2022-07-15 10:07:08,058 root starting the affiliate process
+INFO 2022-07-15 10:07:08,058 root Affiliation verified 
+INFO 2022-07-15 10:07:08,058 root updating the bank details
+INFO 2022-07-15 10:07:08,058 root bank updated is succesfully
+INFO 2022-07-15 10:07:08,059 root verifyin the tech neuron language
+INFO 2022-07-15 10:07:08,059 root returning the courses language
+INFO 2022-07-15 10:07:08,059 root created the list of language
+ERROR 2022-07-15 10:07:08,059 root mistake during verified 
+INFO 2022-07-15 12:29:39,963 root welcome student
+INFO 2022-07-15 12:29:39,963 root total count of the student
+INFO 2022-07-15 12:29:39,963 root build new version neuron plateform
+INFO 2022-07-15 12:29:39,963 root Neuron is created
+INFO 2022-07-15 12:29:39,963 root cost affordable started for a neuron
+INFO 2022-07-15 12:29:39,963 root cost of neuron is returned
+INFO 2022-07-15 12:29:39,963 root build list of course for an instructor
+INFO 2022-07-15 12:29:39,963 root course list created and returned
+INFO 2022-07-15 12:29:39,963 root build list of course for an instructor
+INFO 2022-07-15 12:29:39,963 root course list created and returned
+INFO 2022-07-15 12:29:39,963 root starting registration of an instructor
+INFO 2022-07-15 12:29:39,963 root Instructor registration done
+INFO 2022-07-15 12:29:39,963 root sub course registration is done
+INFO 2022-07-15 12:29:39,963 root sub course is done
+INFO 2022-07-15 12:29:39,963 root starting counting of sub courses
+INFO 2022-07-15 12:29:39,963 root sub course counted is done
+INFO 2022-07-15 12:29:39,963 root starting a deletion of a new course
+INFO 2022-07-15 12:29:39,963 root deleted is completed
+INFO 2022-07-15 12:29:39,963 root registrating a new student
+INFO 2022-07-15 12:29:39,963 root student registration is completed
+INFO 2022-07-15 12:29:39,963 root updating the emailid of the student
+INFO 2022-07-15 12:29:39,963 root emailid updation is done
+INFO 2022-07-15 12:29:39,963 root starting registration of an instructor
+INFO 2022-07-15 12:29:39,963 root Instructor registration done
+INFO 2022-07-15 12:29:39,963 root starting the affiliate process
+INFO 2022-07-15 12:29:39,963 root Affiliation verified 
+INFO 2022-07-15 12:29:39,963 root updating the bank details
+INFO 2022-07-15 12:29:39,963 root bank updated is succesfully
+INFO 2022-07-15 12:29:39,963 root verifyin the tech neuron language
+INFO 2022-07-15 12:29:39,963 root returning the courses language
+INFO 2022-07-15 12:29:39,963 root created the list of language
+ERROR 2022-07-15 12:29:39,963 root mistake during verified 
+INFO 2022-07-15 12:34:05,917 root welcome student
+ERROR 2022-07-15 12:34:05,917 root Exception goes wrong regestration
+INFO 2022-07-15 12:34:05,917 root total count of the student
+INFO 2022-07-15 12:34:05,917 root build new version neuron plateform
+INFO 2022-07-15 12:34:05,918 root Neuron is created
+INFO 2022-07-15 12:34:05,918 root cost affordable started for a neuron
+INFO 2022-07-15 12:34:05,918 root cost of neuron is returned
+INFO 2022-07-15 12:34:05,918 root build list of course for an instructor
+INFO 2022-07-15 12:34:05,918 root course list created and returned
+INFO 2022-07-15 12:34:05,918 root build list of course for an instructor
+INFO 2022-07-15 12:34:05,918 root course list created and returned
+INFO 2022-07-15 12:34:05,918 root starting registration of an instructor
+INFO 2022-07-15 12:34:05,918 root Instructor registration done
+INFO 2022-07-15 12:34:05,918 root sub course registration is done
+INFO 2022-07-15 12:34:05,918 root sub course is done
+INFO 2022-07-15 12:34:05,918 root starting counting of sub courses
+INFO 2022-07-15 12:34:05,918 root sub course counted is done
+INFO 2022-07-15 12:34:05,918 root starting a deletion of a new course
+INFO 2022-07-15 12:34:05,918 root deleted is completed
+INFO 2022-07-15 12:34:05,918 root registrating a new student
+INFO 2022-07-15 12:34:05,918 root student registration is completed
+INFO 2022-07-15 12:34:05,919 root updating the emailid of the student
+INFO 2022-07-15 12:34:05,919 root emailid updation is done
+INFO 2022-07-15 12:34:05,919 root starting registration of an instructor
+INFO 2022-07-15 12:34:05,919 root Instructor registration done
+INFO 2022-07-15 12:34:05,919 root starting the affiliate process
+INFO 2022-07-15 12:34:05,919 root Affiliation verified 
+INFO 2022-07-15 12:34:05,919 root updating the bank details
+INFO 2022-07-15 12:34:05,919 root bank updated is succesfully
+INFO 2022-07-15 12:34:05,919 root verifyin the tech neuron language
+INFO 2022-07-15 12:34:05,919 root returning the courses language
+INFO 2022-07-15 12:34:05,919 root created the list of language
+ERROR 2022-07-15 12:34:05,919 root mistake during verified 
+INFO 2022-07-15 12:38:09,881 root welcome students
+INFO 2022-07-15 12:38:09,881 root total count of the student
+INFO 2022-07-15 12:38:09,882 root build new version neuron plateform
+INFO 2022-07-15 12:38:09,882 root Neuron is created
+INFO 2022-07-15 12:38:09,882 root cost affordable started for a neuron
+INFO 2022-07-15 12:38:09,882 root cost of neuron is returned
+INFO 2022-07-15 12:38:09,882 root creating list of courses for an instructor
+INFO 2022-07-15 12:38:09,882 root course list is created and returned
+INFO 2022-07-15 12:38:09,882 root cost charge started of the course 
+INFO 2022-07-15 12:38:09,882 root cost the course is returned now
+INFO 2022-07-15 12:38:09,882 root starting registration of an instructor
+INFO 2022-07-15 12:38:09,882 root Instructor registration done
+INFO 2022-07-15 12:38:09,882 root sub course registration is done
+INFO 2022-07-15 12:38:09,882 root sub course is done
+INFO 2022-07-15 12:38:09,882 root starting counting of sub courses
+INFO 2022-07-15 12:38:09,882 root sub course counted is done
+INFO 2022-07-15 12:38:09,882 root starting a deletion of a new course
+INFO 2022-07-15 12:38:09,882 root deleted is completed
+INFO 2022-07-15 12:38:09,883 root registrating a new student
+INFO 2022-07-15 12:38:09,883 root updating the emailid of the student
+INFO 2022-07-15 12:38:09,883 root emailid updation is done
+INFO 2022-07-15 12:38:09,883 root creation the blog
+INFO 2022-07-15 12:38:09,883 root blog is stored 
+INFO 2022-07-15 12:38:09,883 root fetching the blog types
+INFO 2022-07-15 12:38:09,883 root blog types list is done
+INFO 2022-07-15 12:38:09,883 root starting the affiliate process
+INFO 2022-07-15 12:38:09,883 root Affiliation verified 
+INFO 2022-07-15 12:38:09,883 root updating the bank details
+INFO 2022-07-15 12:38:09,884 root bank updated is succesfully
+INFO 2022-07-15 12:38:09,884 root starting to searhing for job
+INFO 2022-07-15 12:38:09,884 root list genrated for given job type
+INFO 2022-07-15 12:38:09,884 root stor the query
+INFO 2022-07-15 12:38:09,884 root Query created
+INFO 2022-07-15 12:38:22,753 root welcome students
+INFO 2022-07-15 12:38:22,753 root total count of the student
+INFO 2022-07-15 12:38:22,753 root build new version neuron plateform
+INFO 2022-07-15 12:38:22,753 root Neuron is created
+INFO 2022-07-15 12:38:22,753 root cost affordable started for a neuron
+INFO 2022-07-15 12:38:22,753 root cost of neuron is returned
+INFO 2022-07-15 12:38:22,753 root creating list of courses for an instructor
+INFO 2022-07-15 12:38:22,753 root course list is created and returned
+INFO 2022-07-15 12:38:22,753 root cost charge started of the course 
+INFO 2022-07-15 12:38:22,753 root cost the course is returned now
+INFO 2022-07-15 12:38:22,753 root starting registration of an instructor
+INFO 2022-07-15 12:38:22,754 root Instructor registration done
+INFO 2022-07-15 12:38:22,754 root sub course registration is done
+INFO 2022-07-15 12:38:22,754 root sub course is done
+INFO 2022-07-15 12:38:22,754 root starting counting of sub courses
+INFO 2022-07-15 12:38:22,754 root sub course counted is done
+INFO 2022-07-15 12:38:22,754 root starting a deletion of a new course
+INFO 2022-07-15 12:38:22,754 root deleted is completed
+INFO 2022-07-15 12:38:22,754 root registrating a new student
+INFO 2022-07-15 12:38:22,754 root updating the emailid of the student
+INFO 2022-07-15 12:38:22,754 root emailid updation is done
+INFO 2022-07-15 12:38:22,754 root creation the blog
+INFO 2022-07-15 12:38:22,754 root blog is stored 
+INFO 2022-07-15 12:38:22,754 root fetching the blog types
+INFO 2022-07-15 12:38:22,754 root blog types list is done
+INFO 2022-07-15 12:38:22,754 root starting the affiliate process
+INFO 2022-07-15 12:38:22,754 root Affiliation verified 
+INFO 2022-07-15 12:38:22,754 root updating the bank details
+INFO 2022-07-15 12:38:22,755 root bank updated is succesfully
+INFO 2022-07-15 12:38:22,755 root starting to searhing for job
+INFO 2022-07-15 12:38:22,755 root list genrated for given job type
+INFO 2022-07-15 12:38:22,755 root stor the query
+INFO 2022-07-15 12:38:22,755 root Query created
+INFO 2022-07-15 12:48:18,488 root welcome student
+ERROR 2022-07-15 12:48:18,488 root Exception goes wrong regestration
+INFO 2022-07-15 12:48:18,488 root total count of the student
+INFO 2022-07-15 12:48:18,488 root build new version neuron plateform
+INFO 2022-07-15 12:48:18,488 root Neuron is created
+INFO 2022-07-15 12:48:18,488 root cost affordable started for a neuron
+INFO 2022-07-15 12:48:18,488 root cost of neuron is returned
+INFO 2022-07-15 12:48:18,488 root build list of course for an instructor
+INFO 2022-07-15 12:48:18,488 root course list created and returned
+INFO 2022-07-15 12:48:18,488 root build list of course for an instructor
+INFO 2022-07-15 12:48:18,488 root course list created and returned
+INFO 2022-07-15 12:48:18,488 root starting registration of an instructor
+INFO 2022-07-15 12:48:18,488 root Instructor registration done
+INFO 2022-07-15 12:48:18,488 root sub course registration is done
+INFO 2022-07-15 12:48:18,488 root sub course is done
+INFO 2022-07-15 12:48:18,488 root starting counting of sub courses
+INFO 2022-07-15 12:48:18,488 root sub course counted is done
+INFO 2022-07-15 12:48:18,488 root starting a deletion of a new course
+INFO 2022-07-15 12:48:18,488 root deleted is completed
+INFO 2022-07-15 12:48:18,488 root registrating a new student
+INFO 2022-07-15 12:48:18,488 root student registration is completed
+INFO 2022-07-15 12:48:18,488 root updating the emailid of the student
+INFO 2022-07-15 12:48:18,488 root emailid updation is done
+INFO 2022-07-15 12:48:18,488 root starting registration of an instructor
+INFO 2022-07-15 12:48:18,488 root Instructor registration done
+INFO 2022-07-15 12:48:18,488 root starting the affiliate process
+INFO 2022-07-15 12:48:18,488 root Affiliation verified 
+INFO 2022-07-15 12:48:18,488 root updating the bank details
+INFO 2022-07-15 12:48:18,488 root bank updated is succesfully
+INFO 2022-07-15 12:48:18,488 root verifyin the tech neuron language
+INFO 2022-07-15 12:48:18,488 root returning the courses language
+INFO 2022-07-15 12:48:18,488 root created the list of language
+ERROR 2022-07-15 12:48:18,488 root mistake during verified 
+INFO 2022-07-15 12:50:49,573 root welcome student
+ERROR 2022-07-15 12:50:49,573 root Exception goes wrong regestration
+INFO 2022-07-15 12:50:49,573 root total count of the student
+INFO 2022-07-15 12:50:49,573 root build new version neuron plateform
+INFO 2022-07-15 12:50:49,573 root Neuron is created
+INFO 2022-07-15 12:50:49,573 root cost affordable started for a neuron
+INFO 2022-07-15 12:50:49,573 root cost of neuron is returned
+INFO 2022-07-15 12:50:49,573 root build list of course for an instructor
+INFO 2022-07-15 12:50:49,573 root course list created and returned
+INFO 2022-07-15 12:50:49,573 root build list of course for an instructor
+INFO 2022-07-15 12:50:49,573 root course list created and returned
+INFO 2022-07-15 12:50:49,573 root starting registration of an instructor
+INFO 2022-07-15 12:50:49,574 root Instructor registration done
+INFO 2022-07-15 12:50:49,574 root sub course registration is done
+INFO 2022-07-15 12:50:49,574 root sub course is done
+INFO 2022-07-15 12:50:49,574 root starting counting of sub courses
+INFO 2022-07-15 12:50:49,574 root sub course counted is done
+INFO 2022-07-15 12:50:49,574 root starting a deletion of a new course
+INFO 2022-07-15 12:50:49,574 root deleted is completed
+INFO 2022-07-15 12:50:49,574 root registrating a new student
+INFO 2022-07-15 12:50:49,574 root student registration is completed
+INFO 2022-07-15 12:50:49,574 root updating the emailid of the student
+INFO 2022-07-15 12:50:49,574 root emailid updation is done
+INFO 2022-07-15 12:50:49,574 root starting registration of an instructor
+INFO 2022-07-15 12:50:49,574 root Instructor registration done
+INFO 2022-07-15 12:50:49,574 root starting the affiliate process
+INFO 2022-07-15 12:50:49,574 root Affiliation verified 
+INFO 2022-07-15 12:50:49,574 root updating the bank details
+INFO 2022-07-15 12:50:49,575 root bank updated is succesfully
+INFO 2022-07-15 12:50:49,575 root verifyin the tech neuron language
+INFO 2022-07-15 12:50:49,575 root returning the courses language
+INFO 2022-07-15 12:50:49,575 root created the list of language
+ERROR 2022-07-15 12:50:49,575 root mistake during verified 
+INFO 2022-07-15 12:53:52,164 root welcome student
+ERROR 2022-07-15 12:53:52,165 root Exception goes wrong regestration
+INFO 2022-07-15 12:53:52,165 root total count of the student
+INFO 2022-07-15 12:53:52,165 root build new version neuron plateform
+INFO 2022-07-15 12:53:52,165 root Neuron is created
+INFO 2022-07-15 12:53:52,165 root cost affordable started for a neuron
+INFO 2022-07-15 12:53:52,165 root cost of neuron is returned
+INFO 2022-07-15 12:53:52,165 root build list of course for an instructor
+INFO 2022-07-15 12:53:52,165 root course list created and returned
+INFO 2022-07-15 12:53:52,165 root build list of course for an instructor
+INFO 2022-07-15 12:53:52,165 root course list created and returned
+INFO 2022-07-15 12:53:52,165 root starting registration of an instructor
+INFO 2022-07-15 12:53:52,165 root Instructor registration done
+INFO 2022-07-15 12:53:52,166 root sub course registration is done
+INFO 2022-07-15 12:53:52,166 root sub course is done
+INFO 2022-07-15 12:53:52,166 root starting counting of sub courses
+INFO 2022-07-15 12:53:52,166 root sub course counted is done
+INFO 2022-07-15 12:53:52,166 root starting a deletion of a new course
+INFO 2022-07-15 12:53:52,166 root deleted is completed
+INFO 2022-07-15 12:53:52,166 root registrating a new student
+INFO 2022-07-15 12:53:52,166 root student registration is completed
+INFO 2022-07-15 12:53:52,166 root updating the emailid of the student
+INFO 2022-07-15 12:53:52,166 root emailid updation is done
+INFO 2022-07-15 12:53:52,166 root starting registration of an instructor
+INFO 2022-07-15 12:53:52,166 root Instructor registration done
+INFO 2022-07-15 12:53:52,166 root starting the affiliate process
+INFO 2022-07-15 12:53:52,166 root Affiliation verified 
+INFO 2022-07-15 12:53:52,166 root updating the bank details
+INFO 2022-07-15 12:53:52,166 root bank updated is succesfully
+INFO 2022-07-15 12:53:52,167 root verifyin the tech neuron language
+INFO 2022-07-15 12:53:52,167 root returning the courses language
+INFO 2022-07-15 12:53:52,167 root created the list of language
+ERROR 2022-07-15 12:53:52,167 root mistake during verified 
+INFO 2022-07-15 13:10:35,624 root welcome student
+ERROR 2022-07-15 13:10:35,624 root Exception goes wrong regestration
+INFO 2022-07-15 13:10:35,624 root total count of the student
+INFO 2022-07-15 13:10:35,624 root build new version neuron plateform
+INFO 2022-07-15 13:10:35,624 root Neuron is created
+INFO 2022-07-15 13:10:35,624 root cost affordable started for a neuron
+INFO 2022-07-15 13:10:35,624 root cost of neuron is returned
+INFO 2022-07-15 13:10:35,624 root build list of course for an instructor
+INFO 2022-07-15 13:10:35,624 root course list created and returned
+INFO 2022-07-15 13:10:35,624 root build list of course for an instructor
+INFO 2022-07-15 13:10:35,625 root course list created and returned
+INFO 2022-07-15 13:10:35,625 root starting registration of an instructor
+INFO 2022-07-15 13:10:35,625 root Instructor registration done
+INFO 2022-07-15 13:10:35,625 root sub course registration is done
+INFO 2022-07-15 13:10:35,625 root sub course is done
+INFO 2022-07-15 13:10:35,625 root starting counting of sub courses
+INFO 2022-07-15 13:10:35,625 root sub course counted is done
+INFO 2022-07-15 13:10:35,625 root starting a deletion of a new course
+INFO 2022-07-15 13:10:35,625 root deleted is completed
+INFO 2022-07-15 13:10:35,625 root registrating a new student
+INFO 2022-07-15 13:10:35,625 root student registration is completed
+INFO 2022-07-15 13:10:35,625 root updating the emailid of the student
+INFO 2022-07-15 13:10:35,625 root emailid updation is done
+INFO 2022-07-15 13:10:35,625 root starting registration of an instructor
+INFO 2022-07-15 13:10:35,625 root Instructor registration done
+INFO 2022-07-15 13:10:35,625 root starting the affiliate process
+INFO 2022-07-15 13:10:35,626 root Affiliation verified 
+INFO 2022-07-15 13:10:35,626 root updating the bank details
+INFO 2022-07-15 13:10:35,626 root bank updated is succesfully
+INFO 2022-07-15 13:10:35,626 root verifyin the tech neuron language
+INFO 2022-07-15 13:10:35,626 root returning the courses language
+INFO 2022-07-15 13:10:35,626 root created the list of language
+ERROR 2022-07-15 13:10:35,626 root mistake during verified 
+INFO 2022-07-15 15:28:09,047 root welcome student
+ERROR 2022-07-15 15:28:09,069 root Exception goes wrong regestration
+INFO 2022-07-15 15:28:09,069 root total count of the student
+INFO 2022-07-15 15:28:09,069 root build new version neuron plateform
+INFO 2022-07-15 15:28:09,069 root Neuron is created
+INFO 2022-07-15 15:28:09,069 root cost affordable started for a neuron
+INFO 2022-07-15 15:28:09,069 root cost of neuron is returned
+INFO 2022-07-15 15:28:09,069 root build list of course for an instructor
+INFO 2022-07-15 15:28:09,069 root course list created and returned
+INFO 2022-07-15 15:28:09,069 root build list of course for an instructor
+INFO 2022-07-15 15:28:09,069 root course list created and returned
+INFO 2022-07-15 15:28:09,070 root starting registration of an instructor
+INFO 2022-07-15 15:28:09,070 root Instructor registration done
+INFO 2022-07-15 15:28:09,070 root sub course registration is done
+INFO 2022-07-15 15:28:09,070 root sub course is done
+INFO 2022-07-15 15:28:09,070 root starting counting of sub courses
+INFO 2022-07-15 15:28:09,070 root sub course counted is done
+INFO 2022-07-15 15:28:09,070 root starting a deletion of a new course
+INFO 2022-07-15 15:28:09,070 root deleted is completed
+INFO 2022-07-15 15:28:09,070 root registrating a new student
+INFO 2022-07-15 15:28:09,070 root student registration is completed
+INFO 2022-07-15 15:28:09,070 root updating the emailid of the student
+INFO 2022-07-15 15:28:09,070 root emailid updation is done
+INFO 2022-07-15 15:28:09,070 root starting registration of an instructor
+INFO 2022-07-15 15:28:09,070 root Instructor registration done
+INFO 2022-07-15 15:28:09,070 root starting the affiliate process
+INFO 2022-07-15 15:28:09,070 root Affiliation verified 
+INFO 2022-07-15 15:28:09,071 root updating the bank details
+INFO 2022-07-15 15:28:09,071 root bank updated is succesfully
+INFO 2022-07-15 15:28:09,071 root verifyin the tech neuron language
+INFO 2022-07-15 15:28:09,071 root returning the courses language
+INFO 2022-07-15 15:28:09,071 root created the list of language
+ERROR 2022-07-15 15:28:09,071 root mistake during verified 
+INFO 2022-07-15 15:29:45,903 root Welcome Student
+ERROR 2022-07-15 15:29:45,903 root Exception goes wrong regestration
+INFO 2022-07-15 15:29:45,903 root total count of the student
+INFO 2022-07-15 15:29:45,903 root build new version neuron plateform
+INFO 2022-07-15 15:29:45,903 root Neuron is created
+INFO 2022-07-15 15:29:45,903 root cost affordable started for a neuron
+INFO 2022-07-15 15:29:45,903 root cost of neuron is returned
+INFO 2022-07-15 15:29:45,903 root build list of course for an instructor
+INFO 2022-07-15 15:29:45,903 root course list created and returned
+INFO 2022-07-15 15:29:45,903 root build list of course for an instructor
+INFO 2022-07-15 15:29:45,903 root course list created and returned
+INFO 2022-07-15 15:29:45,903 root starting registration of an instructor
+INFO 2022-07-15 15:29:45,903 root Instructor registration done
+INFO 2022-07-15 15:29:45,903 root sub course registration is done
+INFO 2022-07-15 15:29:45,903 root sub course is done
+INFO 2022-07-15 15:29:45,903 root starting counting of sub courses
+INFO 2022-07-15 15:29:45,903 root sub course counted is done
+INFO 2022-07-15 15:29:45,903 root starting a deletion of a new course
+INFO 2022-07-15 15:29:45,903 root deleted is completed
+INFO 2022-07-15 15:29:45,903 root registrating a new student
+INFO 2022-07-15 15:29:45,903 root student registration is completed
+INFO 2022-07-15 15:29:45,903 root updating the emailid of the student
+INFO 2022-07-15 15:29:45,903 root emailid updation is done
+INFO 2022-07-15 15:29:45,903 root starting registration of an instructor
+INFO 2022-07-15 15:29:45,903 root Instructor registration done
+INFO 2022-07-15 15:29:45,903 root starting the affiliate process
+INFO 2022-07-15 15:29:45,903 root Affiliation verified 
+INFO 2022-07-15 15:29:45,903 root updating the bank details
+INFO 2022-07-15 15:29:45,903 root bank updated is succesfully
+INFO 2022-07-15 15:29:45,903 root verifyin the tech neuron language
+INFO 2022-07-15 15:29:45,903 root returning the courses language
+INFO 2022-07-15 15:29:45,903 root created the list of language
+ERROR 2022-07-15 15:29:45,903 root mistake during verified 
+INFO 2022-07-15 15:31:42,847 root Welcome Student
+ERROR 2022-07-15 15:31:42,847 root Exception goes wrong registration
+INFO 2022-07-15 15:31:42,847 root total count of the student
+INFO 2022-07-15 15:31:42,848 root build new version neuron plateform
+INFO 2022-07-15 15:31:42,848 root Neuron is created
+INFO 2022-07-15 15:31:42,848 root cost affordable started for a neuron
+INFO 2022-07-15 15:31:42,848 root cost of neuron is returned
+INFO 2022-07-15 15:31:42,848 root build list of course for an instructor
+INFO 2022-07-15 15:31:42,848 root course list created and returned
+INFO 2022-07-15 15:31:42,848 root build list of course for an instructor
+INFO 2022-07-15 15:31:42,848 root course list created and returned
+INFO 2022-07-15 15:31:42,848 root starting registration of an instructor
+INFO 2022-07-15 15:31:42,848 root Instructor registration done
+INFO 2022-07-15 15:31:42,848 root sub course registration is done
+INFO 2022-07-15 15:31:42,848 root sub course is done
+INFO 2022-07-15 15:31:42,848 root starting counting of sub courses
+INFO 2022-07-15 15:31:42,848 root sub course counted is done
+INFO 2022-07-15 15:31:42,849 root starting a deletion of a new course
+INFO 2022-07-15 15:31:42,849 root deleted is completed
+INFO 2022-07-15 15:31:42,849 root registrating a new student
+INFO 2022-07-15 15:31:42,849 root student registration is completed
+INFO 2022-07-15 15:31:42,849 root updating the emailid of the student
+INFO 2022-07-15 15:31:42,849 root emailid updation is done
+INFO 2022-07-15 15:31:42,849 root starting registration of an instructor
+INFO 2022-07-15 15:31:42,849 root Instructor registration done
+INFO 2022-07-15 15:31:42,849 root starting the affiliate process
+INFO 2022-07-15 15:31:42,849 root Affiliation verified 
+INFO 2022-07-15 15:31:42,849 root updating the bank details
+INFO 2022-07-15 15:31:42,849 root bank updated is succesfully
+INFO 2022-07-15 15:31:42,849 root verifyin the tech neuron language
+INFO 2022-07-15 15:31:42,849 root returning the courses language
+INFO 2022-07-15 15:31:42,850 root created the list of language
+ERROR 2022-07-15 15:31:42,850 root mistake during verified 
+INFO 2022-07-15 15:32:20,548 root Welcome Student
+ERROR 2022-07-15 15:32:20,548 root Exception goes wrong registration
+INFO 2022-07-15 15:32:20,548 root total count of the student
+INFO 2022-07-15 15:32:20,548 root build new version neuron plateform
+INFO 2022-07-15 15:32:20,548 root Neuron is created
+INFO 2022-07-15 15:32:20,549 root cost affordable started for a neuron
+INFO 2022-07-15 15:32:20,549 root cost of neuron is returned
+INFO 2022-07-15 15:32:20,549 root build list of course for an instructor
+INFO 2022-07-15 15:32:20,549 root course list created and returned
+INFO 2022-07-15 15:32:20,549 root build list of course for an instructor
+INFO 2022-07-15 15:32:20,549 root course list created and returned
+INFO 2022-07-15 15:32:20,549 root starting registration of an instructor
+INFO 2022-07-15 15:32:20,549 root Instructor registration done
+INFO 2022-07-15 15:32:20,549 root sub course registration is done
+INFO 2022-07-15 15:32:20,549 root sub course is done
+INFO 2022-07-15 15:32:20,549 root starting counting of sub courses
+INFO 2022-07-15 15:32:20,549 root sub course counted is done
+INFO 2022-07-15 15:32:20,549 root starting a deletion of a new course
+INFO 2022-07-15 15:32:20,549 root deleted is completed
+INFO 2022-07-15 15:32:20,549 root registrating a new student
+INFO 2022-07-15 15:32:20,549 root student registration is completed
+INFO 2022-07-15 15:32:20,549 root updating the emailid of the student
+INFO 2022-07-15 15:32:20,549 root emailid updation is done
+INFO 2022-07-15 15:32:20,550 root starting registration of an instructor
+INFO 2022-07-15 15:32:20,550 root Instructor registration done
+INFO 2022-07-15 15:32:20,550 root starting the affiliate process
+INFO 2022-07-15 15:32:20,550 root Affiliation verified 
+INFO 2022-07-15 15:32:20,550 root updating the bank details
+INFO 2022-07-15 15:32:20,550 root bank updated is succesfully
+INFO 2022-07-15 15:32:20,550 root verifyin the tech neuron language
+INFO 2022-07-15 15:32:20,550 root returning the courses language
+INFO 2022-07-15 15:32:20,550 root created the list of language
+ERROR 2022-07-15 15:32:20,550 root mistake during verified 
+INFO 2022-07-15 15:35:09,258 root build new version neuron plateform
+INFO 2022-07-15 15:35:09,258 root Neuron is created
+INFO 2022-07-15 15:35:09,258 root cost affordable started for a neuron
+INFO 2022-07-15 15:35:09,258 root cost of neuron is returned
+INFO 2022-07-15 15:35:09,259 root build list of course for an instructor
+INFO 2022-07-15 15:35:09,259 root course list created and returned
+INFO 2022-07-15 15:35:09,259 root build list of course for an instructor
+INFO 2022-07-15 15:35:09,259 root course list created and returned
+INFO 2022-07-15 15:35:09,259 root starting registration of an instructor
+INFO 2022-07-15 15:35:09,259 root Instructor registration done
+INFO 2022-07-15 15:35:09,259 root sub course registration is done
+INFO 2022-07-15 15:35:09,259 root sub course is done
+INFO 2022-07-15 15:35:09,259 root starting counting of sub courses
+INFO 2022-07-15 15:35:09,260 root sub course counted is done
+INFO 2022-07-15 15:35:09,260 root starting a deletion of a new course
+INFO 2022-07-15 15:35:09,260 root deleted is completed
+INFO 2022-07-15 15:35:09,260 root registrating a new student
+INFO 2022-07-15 15:35:09,260 root student registration is completed
+INFO 2022-07-15 15:35:09,260 root updating the emailid of the student
+INFO 2022-07-15 15:35:09,260 root emailid updation is done
+INFO 2022-07-15 15:35:09,260 root starting registration of an instructor
+INFO 2022-07-15 15:35:09,260 root Instructor registration done
+INFO 2022-07-15 15:35:09,260 root starting the affiliate process
+INFO 2022-07-15 15:35:09,260 root Affiliation verified 
+INFO 2022-07-15 15:35:09,260 root updating the bank details
+INFO 2022-07-15 15:35:09,260 root bank updated is succesfully
+INFO 2022-07-15 15:35:48,076 root build new version neuron plateform
+INFO 2022-07-15 15:35:48,077 root Neuron is created
+INFO 2022-07-15 15:35:48,077 root cost affordable started for a neuron
+INFO 2022-07-15 15:35:48,077 root cost of neuron is returned
+INFO 2022-07-15 15:35:48,077 root build list of course for an instructor
+INFO 2022-07-15 15:35:48,077 root course list created and returned
+INFO 2022-07-15 15:35:48,077 root build list of course for an instructor
+INFO 2022-07-15 15:35:48,077 root course list created and returned
+INFO 2022-07-15 15:35:48,077 root starting registration of an instructor
+INFO 2022-07-15 15:35:48,077 root Instructor registration done
+INFO 2022-07-15 15:35:48,077 root sub course registration is done
+INFO 2022-07-15 15:35:48,077 root sub course is done
+INFO 2022-07-15 15:35:48,077 root starting counting of sub courses
+INFO 2022-07-15 15:35:48,077 root sub course counted is done
+INFO 2022-07-15 15:35:48,077 root starting a deletion of a new course
+INFO 2022-07-15 15:35:48,078 root deleted is completed
+INFO 2022-07-15 15:35:48,078 root registrating a new student
+INFO 2022-07-15 15:35:48,078 root student registration is completed
+INFO 2022-07-15 15:35:48,078 root updating the emailid of the student
+INFO 2022-07-15 15:35:48,078 root emailid updation is done
+INFO 2022-07-15 15:35:48,078 root starting registration of an instructor
+INFO 2022-07-15 15:35:48,078 root Instructor registration done
+INFO 2022-07-15 15:35:48,078 root starting the affiliate process
+INFO 2022-07-15 15:35:48,078 root Affiliation verified 
+INFO 2022-07-15 15:35:48,078 root updating the bank details
+INFO 2022-07-15 15:35:48,078 root bank updated is succesfully
+INFO 2022-07-15 15:35:48,078 root verifyin the tech neuron language
+INFO 2022-07-15 15:35:48,078 root returning the courses language
+INFO 2022-07-15 15:35:48,078 root created the list of language
+ERROR 2022-07-15 15:35:48,078 root mistake during verified 
+INFO 2022-07-15 15:35:48,079 root creation the blog
+INFO 2022-07-15 15:35:48,079 root blog is stored 
+INFO 2022-07-15 15:35:48,079 root fetching the blog types
+INFO 2022-07-15 15:35:48,079 root blog types list is done
+INFO 2022-07-15 15:35:48,079 root starting to searhing for job
+INFO 2022-07-15 15:35:48,079 root list genrated for given job type
+INFO 2022-07-15 15:35:48,079 root stor the query
+INFO 2022-07-15 15:35:48,079 root Query created
+INFO 2022-07-15 15:36:37,581 root build new version neuron plateform
+INFO 2022-07-15 15:36:37,582 root Neuron is created
+INFO 2022-07-15 15:36:37,582 root cost affordable started for a neuron
+INFO 2022-07-15 15:36:37,582 root cost of neuron is returned
+INFO 2022-07-15 15:36:37,582 root build list of course for an instructor
+INFO 2022-07-15 15:36:37,582 root course list created and returned
+INFO 2022-07-15 15:36:37,582 root build list of course for an instructor
+INFO 2022-07-15 15:36:37,582 root course list created and returned
+INFO 2022-07-15 15:36:37,582 root starting registration of an instructor
+INFO 2022-07-15 15:36:37,582 root Instructor registration done
+INFO 2022-07-15 15:36:37,582 root sub course registration is done
+INFO 2022-07-15 15:36:37,582 root sub course is done
+INFO 2022-07-15 15:36:37,582 root starting counting of sub courses
+INFO 2022-07-15 15:36:37,583 root sub course counted is done
+INFO 2022-07-15 15:36:37,583 root starting a deletion of a new course
+INFO 2022-07-15 15:36:37,583 root deleted is completed
+INFO 2022-07-15 15:36:37,583 root registrating a new student
+INFO 2022-07-15 15:36:37,583 root student registration is completed
+INFO 2022-07-15 15:36:37,584 root updating the emailid of the student
+INFO 2022-07-15 15:36:37,584 root emailid updation is done
+INFO 2022-07-15 15:36:37,584 root starting registration of an instructor
+INFO 2022-07-15 15:36:37,584 root Instructor registration done
+INFO 2022-07-15 15:36:37,584 root starting the affiliate process
+INFO 2022-07-15 15:36:37,584 root Affiliation verified 
+INFO 2022-07-15 15:36:37,584 root updating the bank details
+INFO 2022-07-15 15:36:37,584 root bank updated is succesfully
+INFO 2022-07-15 15:36:37,584 root verifyin the tech neuron language
+INFO 2022-07-15 15:36:37,584 root returning the courses language
+INFO 2022-07-15 15:36:37,584 root created the list of language
+ERROR 2022-07-15 15:36:37,584 root mistake during verified 
+INFO 2022-07-15 15:36:37,584 root creation the blog
+INFO 2022-07-15 15:36:37,585 root blog is stored 
+INFO 2022-07-15 15:36:37,585 root fetching the blog types
+INFO 2022-07-15 15:36:37,585 root blog types list is done
+INFO 2022-07-15 15:36:37,585 root starting to searhing for job
+INFO 2022-07-15 15:36:37,585 root list genrated for given job type
+INFO 2022-07-15 15:36:37,585 root stor the query
+INFO 2022-07-15 15:36:37,585 root Query created
