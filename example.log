@@ -1,0 +1,176 @@
+INFO 2022-09-07 19:23:41,132 reversed result: [{'key1': 'himu', 234: [23, 45, 657]}, (234, 657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+ERROR 2022-09-07 19:23:41,133 List is empty
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 21, in get_list_info
+    result = obj.reverse_list()
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 15, in reverse_list
+    raise ValueError("List is empty")
+ValueError: List is empty
+INFO 2022-09-07 19:27:45,398 extracted result: 234
+ERROR 2022-09-07 19:27:45,398 index is out of range
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 28, in get_list_info
+    extracted_result = obj.extract_info()
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 21, in extract_info
+    raise IndexError("index is out of range")
+IndexError: index is out of range
+ERROR 2022-09-08 11:21:08,832 1
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 33, in get_list_info
+    extracted_result = obj.extract_info()
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 24, in extract_info
+    return self.list_x[8][1]
+KeyError: 1
+ERROR 2022-09-08 11:21:08,848 index is out of range
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 33, in get_list_info
+    extracted_result = obj.extract_info()
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 26, in extract_info
+    raise IndexError("index is out of range")
+IndexError: index is out of range
+ERROR 2022-09-08 11:21:08,848 index is out of range
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 33, in get_list_info
+    extracted_result = obj.extract_info()
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 26, in extract_info
+    raise IndexError("index is out of range")
+IndexError: index is out of range
+ERROR 2022-09-08 11:24:50,751 1
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 33, in get_list_info
+    extracted_result = obj.extract_info()
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 24, in extract_info
+    return self.list_x[8][1]
+KeyError: 1
+ERROR 2022-09-08 11:24:50,751 index is out of range
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 33, in get_list_info
+    extracted_result = obj.extract_info()
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 26, in extract_info
+    raise IndexError("index is out of range")
+IndexError: index is out of range
+ERROR 2022-09-08 11:24:50,751 index is out of range
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 33, in get_list_info
+    extracted_result = obj.extract_info()
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 26, in extract_info
+    raise IndexError("index is out of range")
+IndexError: index is out of range
+INFO 2022-09-08 11:27:54,703 extracted result: 456
+INFO 2022-09-08 11:27:54,719 extracted result: 456
+ERROR 2022-09-08 11:27:54,719 index is out of range
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 33, in get_list_info
+    extracted_result = obj.extract_info()
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 26, in extract_info
+    raise IndexError("index is out of range")
+IndexError: index is out of range
+ERROR 2022-09-08 11:27:54,719 index is out of range
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 33, in get_list_info
+    extracted_result = obj.extract_info()
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 26, in extract_info
+    raise IndexError("index is out of range")
+IndexError: index is out of range
+ERROR 2022-09-08 11:32:31,576 1
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 39, in get_list_info
+    extracted_result = obj.extract_info()
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 29, in extract_info
+    return self.list_x[8][1]
+KeyError: 1
+ERROR 2022-09-08 11:32:31,576 index is out of the range
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 39, in get_list_info
+    extracted_result = obj.extract_info()
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 31, in extract_info
+    raise IndexError("index is out of the range")
+IndexError: index is out of the range
+ERROR 2022-09-08 11:32:31,576 index is out of the range
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 39, in get_list_info
+    extracted_result = obj.extract_info()
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 31, in extract_info
+    raise IndexError("index is out of the range")
+IndexError: index is out of the range
+ERROR 2022-09-08 11:32:31,576 index is out of the range
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 39, in get_list_info
+    extracted_result = obj.extract_info()
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 31, in extract_info
+    raise IndexError("index is out of the range")
+IndexError: index is out of the range
+INFO 2022-09-08 11:33:51,759 extracted result: himu
+INFO 2022-09-08 11:33:51,759 extracted result: himu
+INFO 2022-09-08 11:33:51,759 extracted result: himu
+ERROR 2022-09-08 11:33:51,759 index is out of the range
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 39, in get_list_info
+    extracted_result = obj.extract_info()
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 31, in extract_info
+    raise IndexError("index is out of the range")
+IndexError: index is out of the range
+ERROR 2022-09-08 11:33:51,759 index is out of the range
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 39, in get_list_info
+    extracted_result = obj.extract_info()
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 31, in extract_info
+    raise IndexError("index is out of the range")
+IndexError: index is out of the range
+ERROR 2022-09-08 11:33:51,759 index is out of the range
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 39, in get_list_info
+    extracted_result = obj.extract_info()
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 31, in extract_info
+    raise IndexError("index is out of the range")
+IndexError: index is out of the range
+INFO 2022-09-08 11:37:03,592 extracted result: dict_keys(['key1', 234])
+INFO 2022-09-08 11:37:03,592 extracted result: dict_keys(['key1', 234])
+INFO 2022-09-08 11:37:03,592 extracted result: dict_keys(['key1', 234])
+INFO 2022-09-08 11:37:03,592 extracted result: dict_keys(['key1', 234])
+INFO 2022-09-08 11:37:03,592 extracted result: None
+INFO 2022-09-08 11:37:03,592 extracted result: None
+INFO 2022-09-08 11:37:03,592 extracted result: None
+INFO 2022-09-08 11:37:03,592 extracted result: None
+INFO 2022-09-08 11:37:03,592 extracted result: None
+INFO 2022-09-08 11:37:03,592 extracted result: None
+INFO 2022-09-08 11:37:03,592 extracted result: None
+INFO 2022-09-08 11:37:03,592 extracted result: None
+INFO 2022-09-08 11:37:03,592 extracted result: None
+INFO 2022-09-08 11:37:03,592 extracted result: None
+INFO 2022-09-08 11:37:03,592 extracted result: None
+INFO 2022-09-08 11:37:03,592 extracted result: None
+INFO 2022-09-08 11:37:03,592 extracted result: None
+INFO 2022-09-08 11:37:03,592 extracted result: None
+INFO 2022-09-08 11:37:03,592 extracted result: None
+INFO 2022-09-08 11:37:03,592 extracted result: None
+INFO 2022-09-08 11:40:18,190 extracted result: dict_values(['himu', [23, 45, 657]])
+INFO 2022-09-08 11:40:18,190 extracted result: dict_values(['himu', [23, 45, 657]])
+INFO 2022-09-08 11:40:18,190 extracted result: dict_values(['himu', [23, 45, 657]])
+INFO 2022-09-08 11:40:18,190 extracted result: dict_values(['himu', [23, 45, 657]])
+INFO 2022-09-08 11:40:18,190 extracted result: dict_values(['himu', [23, 45, 657]])
+INFO 2022-09-08 11:40:18,190 extracted result: None
+INFO 2022-09-08 11:40:18,206 extracted result: None
+INFO 2022-09-08 11:40:18,206 extracted result: None
+INFO 2022-09-08 11:40:18,206 extracted result: None
+INFO 2022-09-08 11:40:18,206 extracted result: None
+INFO 2022-09-08 11:40:18,206 extracted result: None
+INFO 2022-09-08 11:40:18,206 extracted result: None
+INFO 2022-09-08 11:40:18,206 extracted result: None
+INFO 2022-09-08 11:40:18,206 extracted result: None
+INFO 2022-09-08 11:40:18,206 extracted result: None
+INFO 2022-09-08 11:40:18,206 extracted result: None
+INFO 2022-09-08 11:40:18,206 extracted result: None
+INFO 2022-09-08 11:40:18,206 extracted result: None
+INFO 2022-09-08 11:40:18,206 extracted result: None
+INFO 2022-09-08 11:40:18,206 extracted result: None
+INFO 2022-09-08 11:40:18,206 extracted result: None
+INFO 2022-09-08 11:40:18,206 extracted result: None
+INFO 2022-09-08 11:40:18,206 extracted result: None
+INFO 2022-09-08 11:40:18,206 extracted result: None
+INFO 2022-09-08 11:40:18,206 extracted result: None
+INFO 2022-09-08 11:40:18,206 extracted result: None
+INFO 2022-09-08 11:40:18,206 extracted result: None
+INFO 2022-09-08 11:40:18,206 extracted result: None
+INFO 2022-09-08 11:40:18,206 extracted result: None
+INFO 2022-09-08 11:40:18,206 extracted result: None

@@ -1,0 +1,554 @@
+2022-09-07 17:14:04,534, INFO, root, reverse the entire list
+2022-09-07 17:14:04,535, INFO, root, successfully reverse the list
+INFO 2022-09-08 13:27:03,202 I am trying to extract list 
+INFO 2022-09-08 15:13:23,236 I am trying to extract tuple 
+INFO 2022-09-08 15:13:23,260 I am trying to extract tuple 
+INFO 2022-09-08 15:13:55,221 I am trying to extract list 
+INFO 2022-09-08 15:13:55,221 I am trying to extract list 
+INFO 2022-09-08 15:18:46,234 I am trying to extract list 
+INFO 2022-09-08 15:18:46,235 I am trying to extract tuple 
+INFO 2022-09-08 15:21:33,522 I am trying to extract list 
+INFO 2022-09-08 15:21:33,523 I am trying to extract tuple 
+INFO 2022-09-08 15:29:04,844 I am trying to extract list 
+INFO 2022-09-08 15:29:04,844 I am trying to extract tuple 
+INFO 2022-09-08 15:31:33,470 I am trying to extract list 
+ERROR 2022-09-08 15:31:33,470 name 'lists' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\Task2.py", line 18, in extract_list
+    logging.result = lists
+NameError: name 'lists' is not defined
+INFO 2022-09-08 15:31:33,471 I am trying to extract tuple 
+INFO 2022-09-08 15:48:05,186 I am trying to extract list 
+ERROR 2022-09-08 15:48:05,192 name 'lists' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\Task2.py", line 18, in extract_list
+    logging.result = lists
+NameError: name 'lists' is not defined
+INFO 2022-09-08 15:48:05,193 I am trying to extract tuple 
+INFO 2022-09-08 15:48:05,194 I am trying to dict 
+INFO 2022-09-08 15:57:51,348 I am trying to extract list 
+ERROR 2022-09-08 15:57:51,349 name 'lists' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\Task2.py", line 18, in extract_list
+    logging.result = lists
+NameError: name 'lists' is not defined
+INFO 2022-09-08 15:57:51,349 I am trying to extract tuple 
+INFO 2022-09-08 15:57:51,349 I am trying to dict 
+INFO 2022-09-08 15:57:51,349 I am trying to extract numeric alphanum value
+INFO 2022-09-08 16:03:24,968 I am trying to extract list 
+ERROR 2022-09-08 16:03:24,969 name 'lists' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\Task2.py", line 18, in extract_list
+    logging.result = lists
+NameError: name 'lists' is not defined
+INFO 2022-09-08 16:03:24,969 I am trying to extract tuple 
+INFO 2022-09-08 16:03:24,969 I am trying to dict 
+INFO 2022-09-08 16:03:24,969 I am trying to extract numeric alphanum value
+ERROR 2022-09-08 16:03:24,969 'list' object has no attribute 'items'
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\Task2.py", line 55, in extract_alphanum
+    for k in output.items():
+AttributeError: 'list' object has no attribute 'items'
+INFO 2022-09-08 16:15:47,464 I am trying to extract list 
+ERROR 2022-09-08 16:15:47,470 name 'lists' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\Task2.py", line 18, in extract_list
+    logging.result = lists
+NameError: name 'lists' is not defined
+INFO 2022-09-08 16:15:47,470 I am trying to extract tuple 
+INFO 2022-09-08 16:15:47,471 I am trying to dict 
+INFO 2022-09-08 16:15:47,471 I am trying to extract numeric alphanum value
+INFO 2022-09-08 16:18:01,592 I am trying to extract list 
+ERROR 2022-09-08 16:18:01,592 name 'lists' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\Task2.py", line 18, in extract_list
+    logging.result = lists
+NameError: name 'lists' is not defined
+INFO 2022-09-08 16:18:01,593 I am trying to extract tuple 
+INFO 2022-09-08 16:18:01,593 I am trying to dict 
+INFO 2022-09-08 16:18:01,593 I am trying to extract numeric alphanum value
+INFO 2022-09-08 16:18:16,911 I am trying to extract list 
+INFO 2022-09-08 16:18:16,911 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-08 16:18:16,911 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-08 16:18:16,911 I am trying to extract tuple 
+INFO 2022-09-08 16:18:16,911 I am trying to dict 
+INFO 2022-09-08 16:18:16,911 I am trying to extract numeric alphanum value
+INFO 2022-09-08 16:22:00,018 I am trying to extract list 
+INFO 2022-09-08 16:22:00,018 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-08 16:22:00,018 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-08 16:22:00,018 I am trying to extract tuple 
+INFO 2022-09-08 16:22:00,018 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-08 16:22:00,018 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-08 16:22:00,018 I am trying to dict 
+INFO 2022-09-08 16:22:00,018 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-08 16:22:00,019 I am trying to extract numeric alphanum value
+INFO 2022-09-08 16:36:42,531 I am trying to extract list 
+INFO 2022-09-08 16:36:42,540 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-08 16:36:42,540 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-08 16:36:42,540 I am trying to extract tuple 
+INFO 2022-09-08 16:36:42,541 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-08 16:36:42,541 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-08 16:36:42,541 I am trying to dict 
+INFO 2022-09-08 16:36:42,541 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-08 16:36:42,541 I am trying to extract numeric alphanum value
+INFO 2022-09-08 16:36:42,542 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-08 16:55:07,261 I am trying to extract list 
+INFO 2022-09-08 16:55:07,271 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-08 16:55:07,271 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-08 16:55:07,271 I am trying to extract tuple 
+INFO 2022-09-08 16:55:07,272 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-08 16:55:07,272 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-08 16:55:07,272 I am trying to dict 
+INFO 2022-09-08 16:55:07,272 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-08 16:55:07,273 I am trying to extract numeric alphanum value
+INFO 2022-09-08 16:55:07,273 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-08 16:55:07,273 I am trying to extract odd value 
+ERROR 2022-09-08 16:55:07,273 unsupported operand type(s) for %: 'list' and 'int'
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\Task2.py", line 72, in extract_odd
+    if i % 2 == 0:
+TypeError: unsupported operand type(s) for %: 'list' and 'int'
+INFO 2022-09-08 16:56:38,460 I am trying to extract list 
+INFO 2022-09-08 16:56:38,460 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-08 16:56:38,460 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-08 16:56:38,460 I am trying to extract tuple 
+INFO 2022-09-08 16:56:38,460 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-08 16:56:38,461 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-08 16:56:38,461 I am trying to dict 
+INFO 2022-09-08 16:56:38,461 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-08 16:56:38,461 I am trying to extract numeric alphanum value
+INFO 2022-09-08 16:56:38,461 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-08 16:56:38,461 I am trying to extract odd value 
+ERROR 2022-09-08 16:56:38,461 unsupported operand type(s) for %: 'list' and 'int'
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\Task2.py", line 72, in extract_odd
+    if i % 2 == 0:
+TypeError: unsupported operand type(s) for %: 'list' and 'int'
+INFO 2022-09-08 16:59:51,124 I am trying to extract list 
+INFO 2022-09-08 16:59:51,124 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-08 16:59:51,124 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-08 16:59:51,124 I am trying to extract tuple 
+INFO 2022-09-08 16:59:51,124 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-08 16:59:51,124 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-08 16:59:51,124 I am trying to dict 
+INFO 2022-09-08 16:59:51,124 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-08 16:59:51,125 I am trying to extract numeric alphanum value
+INFO 2022-09-08 16:59:51,125 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-08 16:59:51,125 I am trying to extract odd value 
+ERROR 2022-09-08 16:59:51,125 unsupported operand type(s) for %: 'list' and 'int'
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\Task2.py", line 72, in extract_odd
+    if i % 2 == 0:
+TypeError: unsupported operand type(s) for %: 'list' and 'int'
+INFO 2022-09-08 17:20:41,189 I am trying to extract list 
+INFO 2022-09-08 17:20:41,198 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-08 17:20:41,198 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-08 17:20:41,198 I am trying to extract tuple 
+INFO 2022-09-08 17:20:41,198 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-08 17:20:41,198 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-08 17:20:41,206 I am trying to dict 
+INFO 2022-09-08 17:20:41,206 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-08 17:20:41,206 I am trying to extract numeric alphanum value
+INFO 2022-09-08 17:20:41,206 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-08 17:20:41,206 I am trying to extract odd value 
+ERROR 2022-09-08 17:20:41,206 unsupported operand type(s) for %: 'list' and 'int'
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\Task2.py", line 72, in extract_odd
+    if i % 2 == 0:
+TypeError: unsupported operand type(s) for %: 'list' and 'int'
+INFO 2022-09-08 17:27:28,949 I am trying to extract list 
+INFO 2022-09-08 17:27:28,949 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-08 17:27:28,949 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-08 17:27:28,949 I am trying to extract tuple 
+INFO 2022-09-08 17:27:28,949 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-08 17:27:28,957 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-08 17:27:28,957 I am trying to dict 
+INFO 2022-09-08 17:27:28,957 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-08 17:27:28,957 I am trying to extract numeric alphanum value
+INFO 2022-09-08 17:27:28,957 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-08 17:27:28,957 I am trying to extract odd value 
+ERROR 2022-09-08 17:27:28,957 unsupported operand type(s) for %: 'list' and 'int'
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\Task2.py", line 72, in extract_odd
+    if i % 2 == 0:
+TypeError: unsupported operand type(s) for %: 'list' and 'int'
+INFO 2022-09-08 17:47:20,110 I am trying to extract list 
+INFO 2022-09-08 17:47:20,127 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-08 17:47:20,127 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-08 17:47:20,127 I am trying to extract tuple 
+INFO 2022-09-08 17:47:20,127 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-08 17:47:20,127 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-08 17:47:20,127 I am trying to dict 
+INFO 2022-09-08 17:47:20,127 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-08 17:47:20,127 I am trying to extract numeric alphanum value
+INFO 2022-09-08 17:47:20,127 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-08 17:47:20,127 I am trying to extract odd value 
+ERROR 2022-09-08 17:47:20,127 unsupported operand type(s) for %: 'list' and 'int'
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\Task2.py", line 72, in extract_odd
+    if i % 2 == 0:
+TypeError: unsupported operand type(s) for %: 'list' and 'int'
+INFO 2022-09-08 17:48:39,202 I am trying to extract list 
+INFO 2022-09-08 17:48:39,202 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-08 17:48:39,202 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-08 17:48:39,202 I am trying to extract tuple 
+INFO 2022-09-08 17:48:39,202 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-08 17:48:39,202 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-08 17:48:39,202 I am trying to dict 
+INFO 2022-09-08 17:48:39,202 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-08 17:48:39,202 I am trying to extract numeric alphanum value
+INFO 2022-09-08 17:48:39,202 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-08 17:48:39,202 I am trying to extract odd value 
+ERROR 2022-09-08 17:48:39,202 unsupported operand type(s) for %: 'list' and 'int'
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\Task2.py", line 72, in extract_odd
+    if i % 2 == 0:
+TypeError: unsupported operand type(s) for %: 'list' and 'int'
+INFO 2022-09-08 17:51:48,677 I am trying to extract list 
+INFO 2022-09-08 17:51:48,677 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-08 17:51:48,677 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-08 17:51:48,677 I am trying to extract tuple 
+INFO 2022-09-08 17:51:48,677 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-08 17:51:48,677 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-08 17:51:48,677 I am trying to dict 
+INFO 2022-09-08 17:51:48,677 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-08 17:51:48,677 I am trying to extract numeric alphanum value
+INFO 2022-09-08 17:51:48,677 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-08 17:51:48,677 I am trying to extract odd value 
+ERROR 2022-09-08 17:51:48,677 unsupported operand type(s) for %: 'list' and 'int'
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\Task2.py", line 72, in extract_odd
+    if i % 2 == 0:
+TypeError: unsupported operand type(s) for %: 'list' and 'int'
+INFO 2022-09-08 17:52:29,352 I am trying to extract list 
+INFO 2022-09-08 17:52:29,360 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-08 17:52:29,360 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-08 17:52:29,360 I am trying to extract tuple 
+INFO 2022-09-08 17:52:29,360 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-08 17:52:29,360 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-08 17:52:29,360 I am trying to dict 
+INFO 2022-09-08 17:52:29,360 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-08 17:52:29,360 I am trying to extract numeric alphanum value
+INFO 2022-09-08 17:52:29,360 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-08 17:52:29,360 I am trying to extract odd value 
+ERROR 2022-09-08 17:52:29,360 unsupported operand type(s) for %: 'list' and 'int'
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\Task2.py", line 72, in extract_odd
+    if i % 2 == 0:
+TypeError: unsupported operand type(s) for %: 'list' and 'int'
+INFO 2022-09-08 17:52:56,598 I am trying to extract list 
+INFO 2022-09-08 17:52:56,598 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-08 17:52:56,598 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-08 17:52:56,598 I am trying to extract tuple 
+INFO 2022-09-08 17:52:56,598 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-08 17:52:56,606 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-08 17:52:56,607 I am trying to dict 
+INFO 2022-09-08 17:52:56,607 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-08 17:52:56,607 I am trying to extract numeric alphanum value
+INFO 2022-09-08 17:52:56,607 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-08 17:52:56,607 I am trying to extract odd value 
+ERROR 2022-09-08 17:52:56,607 unsupported operand type(s) for %: 'list' and 'int'
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\Task2.py", line 72, in extract_odd
+    if i % 2 == 0:
+TypeError: unsupported operand type(s) for %: 'list' and 'int'
+INFO 2022-09-08 18:20:25,600 I am trying to extract list 
+INFO 2022-09-08 18:20:25,608 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-08 18:20:25,608 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-08 18:20:25,608 I am trying to extract tuple 
+INFO 2022-09-08 18:20:25,608 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-08 18:20:25,608 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-08 18:20:25,608 I am trying to dict 
+INFO 2022-09-08 18:20:25,608 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-08 18:20:25,608 I am trying to extract numeric alphanum value
+INFO 2022-09-08 18:20:25,608 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-08 18:20:25,608 I am trying to extract odd value 
+ERROR 2022-09-08 18:20:25,608 unsupported operand type(s) for %: 'list' and 'int'
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\Task2.py", line 76, in extract_odd
+    if i % 2 == 0:
+TypeError: unsupported operand type(s) for %: 'list' and 'int'
+INFO 2022-09-08 18:21:09,640 I am trying to extract list 
+INFO 2022-09-08 18:21:09,640 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-08 18:21:09,640 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-08 18:21:09,640 I am trying to extract tuple 
+INFO 2022-09-08 18:21:09,640 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-08 18:21:09,640 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-08 18:21:09,640 I am trying to dict 
+INFO 2022-09-08 18:21:09,640 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-08 18:21:09,640 I am trying to extract numeric alphanum value
+INFO 2022-09-08 18:21:09,640 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-08 18:21:09,640 I am trying to extract odd value 
+INFO 2022-09-08 18:22:30,056 I am trying to extract list 
+INFO 2022-09-08 18:22:30,056 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-08 18:22:30,056 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-08 18:22:30,056 I am trying to extract tuple 
+INFO 2022-09-08 18:22:30,056 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-08 18:22:30,056 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-08 18:22:30,056 I am trying to dict 
+INFO 2022-09-08 18:22:30,056 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-08 18:22:30,056 I am trying to extract numeric alphanum value
+INFO 2022-09-08 18:22:30,056 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-08 18:22:30,056 I am trying to extract odd value 
+INFO 2022-09-08 18:25:42,542 I am trying to extract list 
+INFO 2022-09-08 18:25:42,542 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-08 18:25:42,542 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-08 18:25:42,542 I am trying to extract tuple 
+INFO 2022-09-08 18:25:42,542 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-08 18:25:42,542 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-08 18:25:42,542 I am trying to dict 
+INFO 2022-09-08 18:25:42,542 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-08 18:25:42,542 I am trying to extract numeric alphanum value
+INFO 2022-09-08 18:25:42,542 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-08 18:25:42,542 I am trying to extract odd value 
+INFO 2022-09-08 18:25:42,542 The extracted odd value is [[1, 2, 3, 4], [1, 2, 3, 4], [1, 2, 3, 4], [1, 2, 3, 4], (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {45, 4, 5, 23}, {45, 4, 5, 23}, {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-08 18:26:35,661 I am trying to extract list 
+INFO 2022-09-08 18:26:35,661 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-08 18:26:35,661 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-08 18:26:35,661 I am trying to extract tuple 
+INFO 2022-09-08 18:26:35,661 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-08 18:26:35,661 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-08 18:26:35,661 I am trying to dict 
+INFO 2022-09-08 18:26:35,661 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-08 18:26:35,661 I am trying to extract numeric alphanum value
+INFO 2022-09-08 18:26:35,661 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-08 18:26:35,661 I am trying to extract odd value 
+INFO 2022-09-08 18:26:35,661 The extracted odd value is data science
+INFO 2022-09-08 18:27:55,127 I am trying to extract list 
+INFO 2022-09-08 18:27:55,127 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-08 18:27:55,127 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-08 18:27:55,127 I am trying to extract tuple 
+INFO 2022-09-08 18:27:55,127 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-08 18:27:55,127 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-08 18:27:55,135 I am trying to dict 
+INFO 2022-09-08 18:27:55,135 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-08 18:27:55,135 I am trying to extract numeric alphanum value
+INFO 2022-09-08 18:27:55,135 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-08 18:27:55,135 I am trying to extract odd value 
+INFO 2022-09-08 18:27:55,135 The extracted odd value is [[1, 2, 3, 4], [1, 2, 3, 4], [1, 2, 3, 4], [1, 2, 3, 4], (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {45, 4, 5, 23}, {45, 4, 5, 23}, {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-08 18:42:51,997 I am trying to extract list 
+INFO 2022-09-08 18:42:52,019 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-08 18:42:52,020 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-08 18:42:52,020 I am trying to extract tuple 
+INFO 2022-09-08 18:42:52,020 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-08 18:42:52,020 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-08 18:42:52,020 I am trying to dict 
+INFO 2022-09-08 18:42:52,020 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-08 18:42:52,020 I am trying to extract numeric alphanum value
+INFO 2022-09-08 18:42:52,020 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-08 18:42:52,020 I am trying to extract odd value 
+INFO 2022-09-08 18:42:52,021 The extracted odd value is data science
+INFO 2022-09-08 18:43:43,923 I am trying to extract list 
+INFO 2022-09-08 18:43:43,924 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-08 18:43:43,924 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-08 18:43:43,924 I am trying to extract tuple 
+INFO 2022-09-08 18:43:43,925 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-08 18:43:43,925 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-08 18:43:43,925 I am trying to dict 
+INFO 2022-09-08 18:43:43,925 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-08 18:43:43,926 I am trying to extract numeric alphanum value
+INFO 2022-09-08 18:43:43,926 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-08 18:43:43,927 I am trying to extract odd value 
+INFO 2022-09-08 18:43:43,927 The extracted odd value is data science
+INFO 2022-09-08 18:44:25,911 I am trying to extract list 
+INFO 2022-09-08 18:44:25,912 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-08 18:44:25,912 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-08 18:44:25,912 I am trying to extract tuple 
+INFO 2022-09-08 18:44:25,912 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-08 18:44:25,912 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-08 18:44:25,912 I am trying to dict 
+INFO 2022-09-08 18:44:25,912 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-08 18:44:25,912 I am trying to extract numeric alphanum value
+INFO 2022-09-08 18:44:25,913 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-08 18:44:25,913 I am trying to extract odd value 
+INFO 2022-09-08 18:44:25,913 The extracted odd value is data science
+INFO 2022-09-09 10:48:44,904 I am trying to extract list 
+INFO 2022-09-09 10:48:44,920 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-09 10:48:44,920 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-09 10:48:44,920 I am trying to extract tuple 
+INFO 2022-09-09 10:48:44,920 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-09 10:48:44,920 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-09 10:48:44,920 I am trying to dict 
+INFO 2022-09-09 10:48:44,920 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-09 10:48:44,920 I am trying to extract numeric alphanum value
+INFO 2022-09-09 10:48:44,920 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-09 10:48:44,920 I am trying to extract odd value 
+INFO 2022-09-09 10:48:44,920 The extracted odd value is data science
+INFO 2022-09-09 10:50:24,159 I am trying to extract list 
+INFO 2022-09-09 10:50:24,159 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-09 10:50:24,159 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-09 10:50:24,159 I am trying to extract tuple 
+INFO 2022-09-09 10:50:24,159 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-09 10:50:24,159 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-09 10:50:24,159 I am trying to dict 
+INFO 2022-09-09 10:50:24,159 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-09 10:50:24,159 I am trying to extract numeric alphanum value
+INFO 2022-09-09 10:50:24,159 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-09 10:50:24,159 I am trying to extract odd value 
+INFO 2022-09-09 10:50:24,159 The extracted odd value is data science
+INFO 2022-09-09 10:57:26,367 I am trying to extract list 
+INFO 2022-09-09 10:57:26,383 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-09 10:57:26,383 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-09 10:57:26,383 I am trying to extract tuple 
+INFO 2022-09-09 10:57:26,383 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-09 10:57:26,383 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-09 10:57:26,391 I am trying to dict 
+INFO 2022-09-09 10:57:26,391 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-09 10:57:26,391 I am trying to extract numeric alphanum value
+INFO 2022-09-09 10:57:26,391 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-09 10:57:26,391 I am trying to extract odd value 
+INFO 2022-09-09 10:57:26,391 The extracted odd value is data science
+INFO 2022-09-09 10:57:26,391 I am trying to extract ineuron this list
+INFO 2022-09-09 10:57:26,391 The extract str is data science8
+INFO 2022-09-09 10:58:10,333 I am trying to extract list 
+INFO 2022-09-09 10:58:10,333 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-09 10:58:10,333 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-09 10:58:10,333 I am trying to extract tuple 
+INFO 2022-09-09 10:58:10,333 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-09 10:58:10,333 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-09 10:58:10,333 I am trying to dict 
+INFO 2022-09-09 10:58:10,333 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-09 10:58:10,333 I am trying to extract numeric alphanum value
+INFO 2022-09-09 10:58:10,333 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-09 10:58:10,333 I am trying to extract odd value 
+INFO 2022-09-09 10:58:10,341 The extracted odd value is data science
+INFO 2022-09-09 10:58:10,341 I am trying to extract ineuron this list
+INFO 2022-09-09 10:58:10,341 The extract str is data science8
+INFO 2022-09-09 11:03:29,861 I am trying to extract list 
+INFO 2022-09-09 11:03:29,861 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-09 11:03:29,861 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-09 11:03:29,861 I am trying to extract tuple 
+INFO 2022-09-09 11:03:29,861 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-09 11:03:29,861 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-09 11:03:29,861 I am trying to dict 
+INFO 2022-09-09 11:03:29,861 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-09 11:03:29,861 I am trying to extract numeric alphanum value
+INFO 2022-09-09 11:03:29,861 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-09 11:03:29,861 I am trying to extract odd value 
+INFO 2022-09-09 11:03:29,861 The extracted odd value is data science
+INFO 2022-09-09 11:03:29,861 I am trying to extract ineuron this list
+INFO 2022-09-09 11:03:29,861 The extract str is ['ineuron', 'ineuron']
+INFO 2022-09-09 11:03:46,501 I am trying to extract list 
+INFO 2022-09-09 11:03:46,501 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-09 11:03:46,501 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-09 11:03:46,501 I am trying to extract tuple 
+INFO 2022-09-09 11:03:46,501 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-09 11:03:46,501 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-09 11:03:46,501 I am trying to dict 
+INFO 2022-09-09 11:03:46,501 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-09 11:03:46,501 I am trying to extract numeric alphanum value
+INFO 2022-09-09 11:03:46,501 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-09 11:03:46,501 I am trying to extract odd value 
+INFO 2022-09-09 11:03:46,509 The extracted odd value is data science
+INFO 2022-09-09 11:03:46,509 I am trying to extract ineuron this list
+INFO 2022-09-09 11:03:46,509 The extract str is ['ineuron', 'ineuron']
+INFO 2022-09-09 11:04:47,718 I am trying to extract list 
+INFO 2022-09-09 11:04:47,718 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-09 11:04:47,718 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-09 11:04:47,718 I am trying to extract tuple 
+INFO 2022-09-09 11:04:47,718 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-09 11:04:47,718 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-09 11:04:47,718 I am trying to dict 
+INFO 2022-09-09 11:04:47,718 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-09 11:04:47,718 I am trying to extract numeric alphanum value
+INFO 2022-09-09 11:04:47,718 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-09 11:04:47,718 I am trying to extract odd value 
+INFO 2022-09-09 11:04:47,718 The extracted odd value is [[1, 2, 3, 4], [1, 2, 3, 4], [1, 2, 3, 4], [1, 2, 3, 4], (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {45, 4, 5, 23}, {45, 4, 5, 23}, {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-09 11:04:47,718 I am trying to extract ineuron this list
+INFO 2022-09-09 11:04:47,718 The extract str is ['ineuron', 'ineuron']
+INFO 2022-09-09 11:14:11,746 I am trying to extract list 
+INFO 2022-09-09 11:14:11,755 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-09 11:14:11,755 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-09 11:14:11,755 I am trying to extract tuple 
+INFO 2022-09-09 11:14:11,755 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-09 11:14:11,755 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-09 11:14:11,755 I am trying to dict 
+INFO 2022-09-09 11:14:11,755 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-09 11:14:11,755 I am trying to extract numeric alphanum value
+INFO 2022-09-09 11:14:11,755 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-09 11:14:11,755 I am trying to extract odd value 
+INFO 2022-09-09 11:14:11,755 The extracted odd value is [[1, 2, 3, 4], [1, 2, 3, 4], [1, 2, 3, 4], [1, 2, 3, 4], (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {45, 4, 5, 23}, {45, 4, 5, 23}, {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-09 11:14:11,755 I am trying to extract ineuron this list
+INFO 2022-09-09 11:14:11,755 The extract str is ['ineuron', 'ineuron']
+INFO 2022-09-09 11:39:55,930 I am trying to extract list 
+INFO 2022-09-09 11:39:55,941 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-09 11:39:55,941 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-09 11:39:55,941 I am trying to extract tuple 
+INFO 2022-09-09 11:39:55,941 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-09 11:39:55,941 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-09 11:39:55,941 I am trying to dict 
+INFO 2022-09-09 11:39:55,941 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-09 11:39:55,941 I am trying to extract numeric alphanum value
+INFO 2022-09-09 11:39:55,941 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-09 11:39:55,941 I am trying to extract odd value 
+INFO 2022-09-09 11:39:55,941 The extracted odd value is [[1, 2, 3, 4], [1, 2, 3, 4], [1, 2, 3, 4], [1, 2, 3, 4], (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {45, 4, 5, 23}, {45, 4, 5, 23}, {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-09 11:39:55,942 I am trying to extract ineuron this list
+INFO 2022-09-09 11:39:55,942 The extract str is ['ineuron', 'ineuron']
+INFO 2022-09-09 11:39:55,942 I am trying to how many num of occurrence of data
+INFO 2022-09-09 11:39:55,942 occurrence of data is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 'k1', 'sudh', 'k2', 'ineuron', 'k3', 'kumar', 3, 6, 7, 8, 'ineuron', 'data science']
+INFO 2022-09-09 11:57:57,663 I am trying to extract list 
+INFO 2022-09-09 11:57:57,669 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-09 11:57:57,669 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-09 11:57:57,669 I am trying to extract tuple 
+INFO 2022-09-09 11:57:57,669 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-09 11:57:57,669 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-09 11:57:57,669 I am trying to dict 
+INFO 2022-09-09 11:57:57,669 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-09 11:57:57,669 I am trying to extract numeric alphanum value
+INFO 2022-09-09 11:57:57,669 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-09 11:57:57,669 I am trying to extract odd value 
+INFO 2022-09-09 11:57:57,670 The extracted odd value is [[1, 2, 3, 4], [1, 2, 3, 4], [1, 2, 3, 4], [1, 2, 3, 4], (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {45, 4, 5, 23}, {45, 4, 5, 23}, {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-09 11:57:57,670 I am trying to extract ineuron this list
+INFO 2022-09-09 11:57:57,670 The extract str is ['ineuron', 'ineuron']
+INFO 2022-09-09 11:57:57,670 I am trying to how many num of occurrence of data
+INFO 2022-09-09 11:57:57,670 occurrence of data is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 'k1', 'sudh', 'k2', 'ineuron', 'k3', 'kumar', 3, 6, 7, 8, 'ineuron', 'data science']
+INFO 2022-09-09 11:59:44,828 I am trying to extract list 
+INFO 2022-09-09 11:59:44,828 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-09 11:59:44,828 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-09 11:59:44,828 I am trying to extract tuple 
+INFO 2022-09-09 11:59:44,828 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-09 11:59:44,828 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-09 11:59:44,828 I am trying to dict 
+INFO 2022-09-09 11:59:44,828 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-09 11:59:44,828 I am trying to extract numeric alphanum value
+INFO 2022-09-09 11:59:44,828 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-09 11:59:44,828 I am trying to extract odd value 
+INFO 2022-09-09 11:59:44,829 The extracted odd value is [[1, 2, 3, 4], [1, 2, 3, 4], [1, 2, 3, 4], [1, 2, 3, 4], (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {45, 4, 5, 23}, {45, 4, 5, 23}, {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-09 11:59:44,829 I am trying to extract ineuron this list
+INFO 2022-09-09 11:59:44,829 The extract str is ['ineuron', 'ineuron']
+INFO 2022-09-09 11:59:44,829 I am trying to how many num of occurrence of data
+INFO 2022-09-09 11:59:44,829 occurrence of data is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 'k1', 'sudh', 'k2', 'ineuron', 'k3', 'kumar', 3, 6, 7, 8, 'ineuron', 'data science']
+INFO 2022-09-10 10:51:52,885 I am trying to extract list 
+INFO 2022-09-10 10:51:52,918 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-10 10:51:52,918 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-10 10:51:52,918 I am trying to extract tuple 
+INFO 2022-09-10 10:51:52,918 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-10 10:51:52,918 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-10 10:51:52,918 I am trying to dict 
+INFO 2022-09-10 10:51:52,918 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-10 10:51:52,918 I am trying to extract numeric alphanum value
+INFO 2022-09-10 10:51:52,918 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-10 10:51:52,918 I am trying to extract odd value 
+INFO 2022-09-10 10:51:52,918 The extracted odd value is [[1, 2, 3, 4], [1, 2, 3, 4], [1, 2, 3, 4], [1, 2, 3, 4], (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {45, 4, 5, 23}, {45, 4, 5, 23}, {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-10 10:51:52,918 I am trying to extract ineuron this list
+INFO 2022-09-10 10:51:52,918 The extract str is ['ineuron', 'ineuron']
+INFO 2022-09-10 10:51:52,918 I am trying to how many num of occurrence of data
+INFO 2022-09-10 10:51:52,926 occurrence of data is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 'k1', 'sudh', 'k2', 'ineuron', 'k3', 'kumar', 3, 6, 7, 8, 'ineuron', 'data science']
+INFO 2022-09-10 10:59:20,388 I am trying to extract list 
+INFO 2022-09-10 10:59:20,396 the extracted list is [[1, 2, 3, 4]]
+INFO 2022-09-10 10:59:20,396 the extracted list is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-09-10 10:59:20,396 I am trying to extract tuple 
+INFO 2022-09-10 10:59:20,396 The extracted tuple is [(2, 3, 4, 5, 6)]
+INFO 2022-09-10 10:59:20,396 The extracted tuple is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-09-10 10:59:20,396 I am trying to dict 
+INFO 2022-09-10 10:59:20,396 The extracted dict is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-10 10:59:20,396 I am trying to extract numeric alphanum value
+INFO 2022-09-10 10:59:20,396 The extracted alphanum is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+INFO 2022-09-10 10:59:20,396 I am trying to extract odd value 
+INFO 2022-09-10 10:59:20,396 The extracted odd value is [[1, 2, 3, 4], [1, 2, 3, 4], [1, 2, 3, 4], [1, 2, 3, 4], (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {45, 4, 5, 23}, {45, 4, 5, 23}, {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-09-10 10:59:20,396 I am trying to extract ineuron this list
+INFO 2022-09-10 10:59:20,396 The extract str is ['ineuron', 'ineuron']
+INFO 2022-09-10 10:59:20,396 I am trying to how many num of occurrence of data
+INFO 2022-09-10 10:59:20,396 occurrence of data is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 'k1', 'sudh', 'k2', 'ineuron', 'k3', 'kumar', 3, 6, 7, 8, 'ineuron', 'data science']
+INFO 2022-09-10 10:59:20,396 I am trying to multiplication of all the numeric data
+INFO 2022-09-10 10:59:20,396 Multiplication of the data is 1

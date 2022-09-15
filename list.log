@@ -1,0 +1,167 @@
+INFO 2022-09-07 18:08:16,117 I am trying to reverse the entire list
+INFO 2022-09-07 19:14:34,059 I am trying to reverse the entire list
+INFO 2022-09-07 19:14:34,098 reverse list is [{'key1': 'himu', 234: [23, 45, 657]}, (234, 657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]:
+INFO 2022-09-07 19:14:34,099 I am trying to extract himu in the list
+ERROR 2022-09-07 19:14:34,099 'list' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\Task1.py", line 44, in list_extract
+    l = ext_list([7][0])
+TypeError: 'list' object is not callable
+INFO 2022-09-07 19:14:34,101 I am trying to extract himu in the list
+ERROR 2022-09-07 19:14:34,101 'list' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\Task1.py", line 44, in list_extract
+    l = ext_list([7][0])
+TypeError: 'list' object is not callable
+INFO 2022-09-07 19:15:44,545 I am trying to reverse the entire list
+INFO 2022-09-07 19:15:44,546 reverse list is [{'key1': 'himu', 234: [23, 45, 657]}, (234, 657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]:
+INFO 2022-09-07 19:15:44,546 I am trying to extract himu in the list
+ERROR 2022-09-07 19:15:44,546 'list' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\Task1.py", line 45, in list_extract
+    l = ext_list([7][0])
+TypeError: 'list' object is not callable
+INFO 2022-09-07 19:15:44,547 I am trying to extract himu in the list
+ERROR 2022-09-07 19:15:44,547 'list' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\Task1.py", line 45, in list_extract
+    l = ext_list([7][0])
+TypeError: 'list' object is not callable
+INFO 2022-09-07 19:23:26,353 reversed result: [{'key1': 'himu', 234: [23, 45, 657]}, (234, 657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+ERROR 2022-09-07 19:23:26,369 List is empty
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 21, in get_list_info
+    result = obj.reverse_list()
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\example_1.py", line 15, in reverse_list
+    raise ValueError("List is empty")
+ValueError: List is empty
+INFO 2022-09-08 11:10:41,802 I am trying to reverse the entire list
+INFO 2022-09-08 11:10:41,817 reverse list is [{'key1': 'himu', 234: [23, 45, 657]}, (234, 657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]:
+INFO 2022-09-08 11:10:41,817 I am trying to extract himu in the list
+ERROR 2022-09-08 11:10:41,817 'list' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\Task1.py", line 45, in list_extract
+    l = ext_list([7][0])
+TypeError: 'list' object is not callable
+INFO 2022-09-08 11:10:41,817 I am trying to extract himu in the list
+ERROR 2022-09-08 11:10:41,817 'list' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\Task1.py", line 45, in list_extract
+    l = ext_list([7][0])
+TypeError: 'list' object is not callable
+INFO 2022-09-08 11:41:01,169 I am trying to reverse the entire list
+INFO 2022-09-08 11:41:01,184 reverse list is [{'key1': 'himu', 234: [23, 45, 657]}, (234, 657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]:
+INFO 2022-09-08 11:41:01,184 I am trying to extract himu in the list
+ERROR 2022-09-08 11:41:01,184 'list' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\Task1.py", line 45, in list_extract
+    l = ext_list([7][0])
+TypeError: 'list' object is not callable
+INFO 2022-09-08 11:41:01,184 I am trying to extract himu in the list
+ERROR 2022-09-08 11:41:01,184 'list' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\Task1.py", line 45, in list_extract
+    l = ext_list([7][0])
+TypeError: 'list' object is not callable
+INFO 2022-09-08 11:49:59,720 I am trying to reverse the entire list
+INFO 2022-09-08 11:49:59,729 reverse list is [{'key1': 'himu', 234: [23, 45, 657]}, (234, 657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]:
+INFO 2022-09-08 11:49:59,729 I am trying to extract himu in the list
+INFO 2022-09-08 11:49:59,729 Extract string is234
+INFO 2022-09-08 11:49:59,729 I am trying to extract himu in the list
+INFO 2022-09-08 11:49:59,729 Extract string is234
+INFO 2022-09-08 11:50:14,890 I am trying to reverse the entire list
+INFO 2022-09-08 11:50:14,890 reverse list is [{'key1': 'himu', 234: [23, 45, 657]}, (234, 657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]:
+INFO 2022-09-08 11:50:14,890 I am trying to extract himu in the list
+ERROR 2022-09-08 11:50:14,890 0
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\Task1.py", line 45, in list_extract
+    l = ext_list[8][0]
+KeyError: 0
+INFO 2022-09-08 11:50:14,898 I am trying to extract himu in the list
+ERROR 2022-09-08 11:50:14,898 0
+Traceback (most recent call last):
+  File "C:\Users\Balodi\PycharmProjects\pythonProjectLogging and debugging\Task1.py", line 45, in list_extract
+    l = ext_list[8][0]
+KeyError: 0
+INFO 2022-09-08 11:52:35,399 I am trying to reverse the entire list
+INFO 2022-09-08 11:52:35,399 reverse list is [{'key1': 'himu', 234: [23, 45, 657]}, (234, 657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]:
+INFO 2022-09-08 11:52:35,399 I am trying to extract himu in the list
+INFO 2022-09-08 11:52:35,399 Extract string is456
+INFO 2022-09-08 11:52:35,399 I am trying to extract himu in the list
+INFO 2022-09-08 11:52:35,399 Extract string is456
+INFO 2022-09-08 11:55:12,637 I am trying to reverse the entire list
+INFO 2022-09-08 11:55:12,637 reverse list is [{'key1': 'himu', 234: [23, 45, 657]}, (234, 657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]:
+INFO 2022-09-08 11:55:12,637 I am trying to extract himu in the list
+INFO 2022-09-08 11:55:12,637 Extract string ishimu
+INFO 2022-09-08 11:55:12,637 I am trying to extract himu in the list
+INFO 2022-09-08 11:55:12,637 Extract string ishimu
+INFO 2022-09-08 12:00:47,400 I am trying to reverse the entire list
+INFO 2022-09-08 12:00:47,400 reverse list is [{'key1': 'himu', 234: [23, 45, 657]}, (234, 657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]:
+INFO 2022-09-08 12:00:47,400 I am trying to extract 456 in the list
+INFO 2022-09-08 12:00:47,400 Extract string ishimu
+INFO 2022-09-08 12:00:47,400 I am trying to extract 456 in the list
+INFO 2022-09-08 12:00:47,400 Extract string ishimu
+INFO 2022-09-08 12:00:47,400 I am trying to extract 456 in the list
+INFO 2022-09-08 12:00:47,400 Extract string ishimu
+INFO 2022-09-08 12:06:17,940 I am trying to reverse the entire list
+INFO 2022-09-08 12:06:17,940 reverse list is [{'key1': 'himu', 234: [23, 45, 657]}, (234, 657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]:
+INFO 2022-09-08 12:06:17,940 I am trying to extract 456 in the list
+INFO 2022-09-08 12:06:17,940 Extract string ishimu
+INFO 2022-09-08 12:06:17,940 I am trying to extract 456 in the list
+INFO 2022-09-08 12:06:17,940 Extract string ishimu
+INFO 2022-09-08 12:06:17,940 I am trying to extract 456 in the list
+INFO 2022-09-08 12:06:17,948 Extract string ishimu
+INFO 2022-09-08 12:07:13,393 I am trying to reverse the entire list
+INFO 2022-09-08 12:07:13,403 reverse list is [{'key1': 'himu', 234: [23, 45, 657]}, (234, 657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]:
+INFO 2022-09-08 12:07:13,403 I am trying to extract 456 in the list
+INFO 2022-09-08 12:07:13,403 Extract string ishimu
+INFO 2022-09-08 12:07:13,403 I am trying to extract 456 in the list
+INFO 2022-09-08 12:07:13,403 Extract string ishimu
+INFO 2022-09-08 12:07:13,403 I am trying to extract 456 in the list
+INFO 2022-09-08 12:07:13,403 Extract string ishimu
+INFO 2022-09-08 12:07:42,162 I am trying to reverse the entire list
+INFO 2022-09-08 12:07:42,162 reverse list is [{'key1': 'himu', 234: [23, 45, 657]}, (234, 657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]:
+INFO 2022-09-08 12:07:42,162 I am trying to extract 456 in the list
+INFO 2022-09-08 12:07:42,162 Extract string ishimu
+INFO 2022-09-08 12:07:42,162 I am trying to extract 456 in the list
+INFO 2022-09-08 12:07:42,162 Extract string ishimu
+INFO 2022-09-08 12:07:42,162 I am trying to extract 456 in the list
+INFO 2022-09-08 12:07:42,162 Extract string ishimu
+INFO 2022-09-08 12:09:00,418 I am trying to reverse the entire list
+INFO 2022-09-08 12:09:00,418 reverse list is [{'key1': 'himu', 234: [23, 45, 657]}, (234, 657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]:
+INFO 2022-09-08 12:09:00,418 I am trying to extract 456 in the list
+INFO 2022-09-08 12:09:00,418 Extract string ishimu
+INFO 2022-09-08 12:09:00,418 I am trying to extract 456 in the list
+INFO 2022-09-08 12:09:00,418 Extract string ishimu
+INFO 2022-09-08 12:09:00,418 I am trying to extract 456 in the list
+INFO 2022-09-08 12:09:00,418 Extract string ishimu
+INFO 2022-09-08 12:17:47,117 I am trying to reverse the entire list
+INFO 2022-09-08 12:17:47,117 reverse list is [{'key1': 'himu', 234: [23, 45, 657]}, (234, 657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]:
+INFO 2022-09-08 12:17:47,117 I am trying to extract 456 in the list
+INFO 2022-09-08 12:17:47,117 Extract string ishimu
+INFO 2022-09-08 12:17:47,117 I am trying to extract 456 in the list
+INFO 2022-09-08 12:17:47,117 Extract string ishimu
+INFO 2022-09-08 12:21:20,118 I am trying to reverse the entire list
+INFO 2022-09-08 12:21:20,118 reverse list is [{'key1': 'himu', 234: [23, 45, 657]}, (234, 657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]:
+INFO 2022-09-08 12:21:20,118 I am trying to extract 456 in the list
+INFO 2022-09-08 12:21:20,118 Extract string ishimu
+INFO 2022-09-08 12:21:20,118 I am trying to extract 456 in the list
+INFO 2022-09-08 12:21:20,118 Extract string ishimu
+INFO 2022-09-08 12:21:20,118 I am trying to extract 456 in the list
+INFO 2022-09-08 12:21:20,118 Extract string ishimu
+INFO 2022-09-08 12:22:30,827 I am trying to reverse the entire list
+INFO 2022-09-08 12:22:30,827 reverse list is [{'key1': 'himu', 234: [23, 45, 657]}, (234, 657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]:
+INFO 2022-09-08 12:22:30,827 I am trying to extract 456 in the list
+INFO 2022-09-08 12:22:30,827 Extract string ishimu
+INFO 2022-09-08 12:22:30,827 I am trying to extract 456 in the list
+INFO 2022-09-08 12:22:30,827 Extract string ishimu
+INFO 2022-09-08 12:22:30,827 I am trying to extract 456 in the list
+INFO 2022-09-08 12:22:30,827 Extract string ishimu
+INFO 2022-09-08 12:24:50,033 I am trying to reverse the entire list
+INFO 2022-09-08 12:24:50,033 reverse list is [{'key1': 'himu', 234: [23, 45, 657]}, (234, 657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]:
+INFO 2022-09-08 12:24:50,033 I am trying to extract 456 in the list
+INFO 2022-09-08 12:24:50,033 Extract list is himu
+INFO 2022-09-08 12:24:50,033 I am trying to extract 456 in the list
+INFO 2022-09-08 12:24:50,033 Extract list is himu
+INFO 2022-09-08 12:24:50,033 I am trying to extract 456 in the list
+INFO 2022-09-08 12:24:50,033 Extract list is himu
